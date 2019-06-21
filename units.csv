@@ -1,0 +1,1099 @@
+id,code,parent,parent_id,absence,name,bataillons,squadrons,batteries,engineers,ems,officers,men,total,category,rank,nation,icon,source
+246,"P1BrHQ","P1Br",69,,"1st Brigade-HQ",,,,,,,,,41,33,51,28,1
+220,"BLC",,,,"Anglo Allied army",125,103,34,16,603,4816,103539,108355,41,30,47,3,1
+230,"FAN",,,,"Armée du Nord",175,179,51,21,335,5440,118838,124278,41,30,48,13,1
+244,"PLR",,,,"Lower Rhine Army",137,145,40,4,264,3295,121171,124466,41,30,51,28,1
+676,"P31IR","P12Br",80,,"31st Inf Rgt",3,,,,,,,,42,34,51,30,1
+1,"HRC","BGAR",229,,"Hanovrian Reserve corps",13,0,0,0,,316,8996,9312,42,39,49,25,1
+2,"BGARNISONS","BGAR",229,,"Garnisons",2,0,0,0,,82,3555,3637,42,39,47,5,1
+3,"GIVG","GI",231,,"Vieille Garde",15,0,0,0,,255,8189,8444,42,39,48,20,1
+4,"GIJG","GI",231,,"Jeune Garde",8,0,0,0,,117,4166,4283,42,39,48,20,1
+5,"B1IB","B1ID",85,,"1st British Brigade",2,0,0,0,,74,1923,1997,42,33,47,5,1
+6,"B2IB","B1ID",85,,"2nd British Brigade",2,0,0,0,,74,1990,2064,42,33,47,5,1
+7,"B5IB","B3ID",86,,"5th British Brigade",4,0,0,0,,136,2118,2254,42,33,47,5,1
+8,"B2KIB","B3ID",86,,"2nd KGL Brigade",4,0,0,0,,110,1733,1843,42,33,47,5,1
+9,"H1IB","B3ID",86,,"1st Hanovrian Brigade",5,0,0,0,,143,3046,3189,42,33,49,25,1
+10,"N2ID1B","N2ID",87,,"1st Dutch-Belgian Brigade",5,0,1,0,,124,3328,3452,42,33,52,10,1
+11,"N2ID2B","N2ID",87,,"2nd Dutch-Belgian Brigade",0,0,0,0,,0,0,0,42,33,52,10,1
+12,"N3ID1B","N3ID",88,,"1st Dutch-Belgian Brigade",6,0,1,0,,147,3151,3298,42,33,52,10,1
+13,"N3ID2B","N3ID",88,,"2nd Dutch-Belgian Brigade",6,0,1,0,,150,3698,3848,42,33,52,10,1
+14,"B3IB","B2ID",89,,"3rd British Brigade",3,0,0,0,,158,2463,2621,42,33,47,5,1
+15,"B1KIB","B2ID",89,,"1st KGL Brigade",4,0,0,0,,122,1912,2034,42,33,47,5,1
+16,"H3IB","B2ID",89,,"3th Hanovrian Brigade",4,0,0,0,,123,2331,2454,42,33,49,25,1
+17,"B4IB","B4ID",90,,"4th British Brigade",3,0,0,0,,129,1638,1767,42,33,47,5,1
+18,"B6IB","B4ID",90,,"6th British Brigade",4,0,0,0,,158,2238,2396,42,33,47,5,1
+19,"H6IB","B4ID",90,,"6th Hanovrian Brigade",5,0,0,0,,157,2892,3049,42,33,49,25,1
+20,"N1IB","N1ID",92,,"1st Dutch-Belgian Brigade",6,0,0,0,,151,3118,3269,42,33,52,10,1
+21,"N2IB","N1ID",92,,"2nd Dutch-Belgian Brigade",5,0,0,0,,115,3053,3168,42,33,52,10,1
+22,"B8IB","B5ID",93,,"8th British Brigade",4,0,0,0,,162,2309,2471,42,33,47,5,1
+23,"H5IB","B5ID",93,,"5th Hanovrian Brigade",4,0,0,0,,136,2378,2514,42,33,49,25,1
+24,"B9IB","B5ID",93,,"9th British Brigade",4,0,0,0,,147,2026,2173,42,33,47,5,1
+25,"B10IB","B6ID",94,,"10th British Brigade",4,0,0,0,,135,2432,2567,42,33,47,5,1
+26,"H4IB","B6ID",94,,"4th Hanovrian Brigade",4,0,0,0,,137,2445,2582,42,33,49,25,1
+27,"RLGIB","RBC",96,,"Light Infantry Brigade",4,0,0,0,,82,2606,2688,42,33,50,35,1
+28,"RLNIB","RBC",96,,"Line Infantry Brigade",3,0,0,0,,60,1956,2016,42,33,50,35,1
+29,"HR1IB","HRC",1,,"1st Hanovrian Brigade",3,0,0,0,,76,2076,2152,42,33,49,25,1
+30,"HR2IB","HRC",1,,"2nd Hanovrian Brigade",3,0,0,0,,72,2076,2148,42,33,49,25,1
+31,"HR3IB","HRC",1,,"3rd Hanovrian Brigade",3,0,0,0,,72,2076,2148,42,33,49,25,1
+32,"HR4IB","HRC",1,,"4th Hanovrian Brigade",4,0,0,0,,96,2768,2864,42,33,49,25,1
+33,"G1DI1B","G1DIJG",100,,"JG 1DI 1ere Brigade",4,0,0,0,,63,2123,2186,42,33,48,20,1
+34,"G1DI2B","G1DIJG",100,,"JG 1DI 2eme Brigade",4,0,0,0,,54,2043,2097,42,33,48,20,1
+35,"F1DI1B","F1DI",101,,"1DI 1ere Brigade",4,0,0,0,,86,2024,2110,42,33,48,15,1
+36,"F1DI2B","F1DI",101,,"1DI 2eme Brigade",4,0,0,0,,84,1797,1881,42,33,48,15,1
+37,"F2DI1B","F2DI",102,,"2DI 1ere Brigade",5,0,0,0,,103,2829,2932,42,33,48,15,1
+38,"F2DI2B","F2DI",102,,"2DI 2eme Brigade",4,0,0,0,,85,2115,2200,42,33,48,15,1
+39,"F3DI1B","F3DI",103,,"3DI 1ere Brigade",4,0,0,0,,85,1840,1925,42,33,48,15,1
+40,"F3DI2B","F3DI",103,,"3DI 2eme Brigade",4,0,0,0,,83,1894,1977,42,33,48,15,1
+41,"F4DI1B","F4DI",104,,"4DI 1ere Brigade",4,0,0,0,,80,2049,2129,42,33,48,15,1
+42,"F4DI2B","F4DI",104,,"4DI 2eme Brigade",4,0,0,0,,80,2051,2131,42,33,48,15,1
+43,"F5DI1B","F5DI",105,,"5DI 1ere Brigade",5,0,0,0,,100,2471,2571,42,33,48,15,1
+44,"F5DI2B","F5DI",105,,"5DI 2eme Brigade",5,0,0,0,,103,2799,2902,42,33,48,15,1
+45,"F6DI1B","F6DI",106,,"6DI 1ere Brigade",5,0,0,0,,106,2925,3031,42,33,48,15,1
+46,"F6DI2B","F6DI",106,,"6DI 2eme Brigade",6,0,0,0,,124,3466,3590,42,33,48,15,1
+47,"F7DI1B","F7DI",107,,"7DI 1ere Brigade",4,0,0,0,,82,2303,2385,42,33,48,15,1
+48,"F7DI2B","F7DI",107,,"7DI 2eme Brigade",5,0,0,0,,95,2698,2793,42,33,48,15,1
+49,"F9DI1B","F9DI",108,,"9DI 1ere Brigade",5,0,0,0,,100,2454,2554,42,33,48,15,1
+50,"F9DI2B","F9DI",108,,"9DI 2eme Brigade",6,0,0,0,,112,2640,2752,42,33,48,15,1
+51,"F8DI1B","F8DI",109,,"8DI 1ere Brigade",6,0,0,0,,124,2828,2952,42,33,48,15,1
+52,"F8DI2B","F8DI",109,,"8DI 2eme Brigade",5,0,0,0,,99,2008,2107,42,33,48,15,1
+53,"F10DI1B","F10DI",110,,"10DI 1ere Brigade",6,0,0,0,,112,2649,2761,42,33,48,15,1
+54,"F10DI2B","F10DI",110,,"10DI 2eme Brigade",6,0,0,0,,121,2701,2822,42,33,48,15,1
+55,"F11DI1B","F11DI",111,,"11DI 1ere Brigade",4,0,0,0,,83,2405,2488,42,33,48,15,1
+56,"F11DI2B","F11DI",111,,"11DI 2eme Brigade",4,0,0,0,,83,1967,2050,42,33,48,15,1
+57,"F12DI1B","F12DI",112,,"12DI 1ere Brigade",6,0,0,0,,105,2786,2891,42,33,48,15,1
+58,"F12DI2B","F12DI",112,,"12DI 2eme Brigade",4,0,0,0,,73,1805,1878,42,33,48,15,1
+59,"F13DI1B","F13DI",113,,"13DI 1ere Brigade",4,0,0,0,,82,2029,2111,42,33,48,15,1
+60,"F13DI2B","F13DI",113,,"13DI 2eme Brigade",4,0,0,0,,83,1911,1994,42,33,48,15,1
+61,"F14DI1B","F14DI",114,,"14DI 1ere Brigade",4,0,0,0,,86,2250,2336,42,33,48,15,1
+62,"F14DI2B","F14DI",114,,"14DI 2eme Brigade",4,0,0,0,,83,1808,1891,42,33,48,15,1
+63,"F19DI1B","F19DI",115,,"19DI 1ere Brigade",5,0,0,0,,103,2045,2148,42,33,48,15,1
+64,"F19DI2B","F19DI",115,,"19DI 2eme Brigade",4,0,0,0,,84,1676,1760,42,33,48,15,1
+65,"F20DI1B","F20DI",116,,"20DI 1ere Brigade",5,0,0,0,,98,2209,2307,42,33,48,15,1
+66,"F20DI2B","F20DI",116,,"20DI 2eme Brigade",2,0,0,0,,44,692,736,42,33,48,15,1
+67,"F21DI1B","F21DI",117,,"21DI 1ere Brigade",2,0,0,0,,42,896,938,42,33,48,15,1
+68,"F21DI2B","F21DI",117,,"21DI 2eme Brigade",3,0,0,0,,64,1420,1484,42,33,48,15,1
+69,"P1Br","P1A",245,,"1st Brigade",10,,2,,5,,,,42,33,51,30,1
+70,"P2Br","P1A",245,,"2nd Brigade",9,,1,,6,,,,42,33,51,30,1
+71,"P3Br","P1A",245,,"3rd Brigade",10,,1,,6,,,,42,33,51,30,1
+72,"P4Br","P1A",245,,"4th Brigade",6,,1,,6,,,,42,33,51,30,1
+73,"P5Br","P2A",249,,"5th Brigade",10,2,1,,6,,,,42,33,51,30,1
+74,"P6Br","P2A",249,,"6th Brigade",9,2,1,,6,,,,42,33,51,30,1
+75,"P7Br","P2A",249,,"7th Brigade",9,2,1,,6,,,,42,33,51,30,1
+76,"P8Br","P2A",249,,"8th Brigade",9,2,1,,6,,,,42,33,51,30,1
+77,"P9Br","P3A",252,,"9th Brigade",9,,1,,5,,,,42,33,51,30,1
+78,"P10Br","P3A",252,,"10th Brigade",6,,1,,4,,,,42,33,51,30,1
+79,"P11Br","P3A",252,,"11th Brigade",6,,1,,4,,,,42,33,51,30,1
+80,"P12Br","P3A",252,,"12th Brigade",9,,1,,3,,,,42,33,51,30,1
+81,"P13Br","P4A",256,,"13th Brigade",9,,1,,5,,,,42,33,51,30,1
+82,"P14Br","P4A",256,,"14th Brigade",9,,1,,6,,,,42,33,51,30,1
+83,"P15Br","P4A",256,,"15th Brigade",9,,1,,5,,,,42,33,51,30,1
+84,"P16Br","P4A",256,,"16th Brigade",9,,1,,4,,,,42,33,51,30,1
+85,"B1ID","B1A",223,,"1st British Division (Guard)",4,0,2,0,10,162,4426,4588,42,32,47,5,1
+86,"B3ID","B1A",223,,"3rd British Division",13,0,2,0,11,400,7461,7861,42,32,47,5,1
+87,"N2ID","B1A",223,,"2nd Dutch-Belgian Division",7,0,2,0,17,184,5284,5468,42,32,52,10,1
+88,"N3ID","B1A",223,,"3rd Dutch-Belgian Division",12,0,2,0,16,297,6849,7146,42,32,52,10,1
+89,"B2ID","B2A",224,,"2nd British Division",11,0,2,0,10,417,7237,7654,42,32,47,5,1
+90,"B4ID","B2A",224,,"4th British Division",12,0,2,0,11,454,7340,7794,42,32,47,5,1
+91,"BIB","B3A",225,,"Indian Brigade",5,0,1,0,11,154,3575,3729,42,32,47,5,1
+92,"N1ID","B3A",225,,"1st Dutch-Belgian Division",11,0,1,0,12,276,6508,6784,42,32,52,10,1
+93,"B5ID","BRA",226,,"5th British Division",12,0,2,0,14,456,7290,7746,42,32,47,5,1
+94,"B6ID","BRA",226,,"6th British Division",8,0,2,0,5,282,5572,5854,42,32,47,5,1
+95,"NASSAU","BRA",226,,"Nassau Contigent",3,0,0,0,13,53,2834,2887,42,32,52,10,1
+96,"RBC","BRA",226,,"Brunswick (Corps) Contigent",8,5,2,0,8,232,6576,6808,42,32,50,35,1
+97,"B7ID","BGAR",229,,"7th British Division",4,0,0,0,,107,1704,1811,42,32,47,5,1
+98,"G1DIGr","GIVG",3,,"VG 1ere Division d'Infanterie",7,0,0,0,,123,3718,3841,42,32,48,20,1
+99,"G2DICh","GIVG",3,,"VG 2eme Division d'Infanterie",8,0,0,0,,132,4471,4603,42,32,48,20,1
+100,"G1DIJG","GIJG",4,,"JG 1ere Division d'Infanterie",8,0,0,0,,117,4166,4283,42,32,48,20,1
+101,"F1DI","F1A",232,,"1ere Division d'Infanterie",8,0,1,1,,181,4071,4252,42,32,48,15,1
+102,"F2DI","F1A",232,,"2eme Division d'Infanterie",9,0,1,1,,196,5191,5387,42,32,48,15,1
+103,"F3DI","F1A",232,,"3eme Division d'Infanterie",8,0,1,1,,178,3973,4151,42,32,48,15,1
+104,"F4DI","F1A",232,,"4eme Division d'Infanterie",8,0,1,1,,169,4339,4508,42,32,48,15,1
+105,"F5DI","F2A",233,,"5eme Division d'Infanterie",10,0,1,1,,214,5537,5751,42,32,48,15,1
+106,"F6DI","F2A",233,,"6eme Division d'Infanterie",11,0,1,1,,241,6666,6907,42,32,48,15,1
+107,"F7DI","F2A",233,,"7eme Division d'Infanterie",9,0,1,1,,186,5258,5444,42,32,48,15,1
+108,"F9DI","F2A",233,,"9eme Division d'Infanterie",11,0,1,1,,222,5357,5579,42,32,48,15,1
+109,"F8DI","F3A",234,,"8eme Division d'Infanterie",11,0,1,1,,230,5042,5272,42,32,48,15,1
+110,"F10DI","F3A",234,,"10eme Division d'Infanterie",12,0,1,1,,243,5620,5863,42,32,48,15,1
+111,"F11DI","F3A",234,,"11eme Division d'Infanterie",8,0,1,1,,174,4617,4791,42,32,48,15,1
+112,"F12DI","F4A",235,,"12eme Division d'Infanterie",10,0,1,0,,183,4786,4969,42,32,48,15,1
+113,"F13DI","F4A",235,,"13eme Division d'Infanterie",8,0,1,1,,174,4187,4361,42,32,48,15,1
+114,"F14DI","F4A",235,,"14eme Division d'Infanterie",8,0,1,1,,181,4324,4505,42,32,48,15,1
+115,"F19DI","F6A",237,,"19eme Division d'Infanterie",9,0,1,1,,198,3985,4183,42,32,48,15,1
+116,"F20DI","F6A",237,,"20eme Division d'Infanterie",7,0,1,0,,147,3091,3238,42,32,48,15,1
+117,"F21DI","F6A",237,,"21eme Division d'Infanterie",5,0,1,1,,114,2575,2689,42,32,48,15,1
+118,"RBCB","RBC",96,,"Brunswick Cavalry",0,5,0,0,,56,866,922,43,39,50,32,1
+119,"P1CR","P1A",245,,"1C Cavalry Reserve",0,32,,0,8,92,2083,2175,43,39,51,27,1
+120,"P2CR","P2A",249,,"2C Cavalry Reserve",0,36,1,0,11,201,4270,4471,43,39,51,27,1
+121,"P3CR","P3A",252,,"3C Cavalry Reserve",0,25,1,0,9,106,1961,2067,43,39,51,27,1
+122,"P4CR","P4A",256,,"4C Cavalry Reserve",0,44,2,0,10,155,3252,3407,43,39,51,27,1
+123,"NCDHB","NCD",168,,"Heavy Cavalry Brigade",0,6,0,0,,67,1170,1237,43,33,52,7,1
+124,"NCD1LB","NCD",168,,"1st Light Cavalry Brigade",0,5,0,0,,49,1037,1086,43,33,52,7,1
+125,"NCD2LB","NCD",168,,"2nd Light Cavalry Brigade",0,5,0,0,,51,1031,1082,43,33,52,7,1
+126,"B1CB","BCD",227,,"CD 1st (Household) Brigade",0,10,0,0,,81,1145,1226,43,33,47,2,1
+260,"P2BrHQ","P2Br",70,,"2nd Brigade-HQ",,,,,,,,,41,33,51,28,1
+127,"B2CB","BCD",227,,"CD 2nd (Union) Brigade",0,9,0,0,,79,1102,1181,43,33,47,2,1
+128,"B3CB","BCD",227,,"CD 3rd  Brigade",0,12,0,0,,76,1355,1431,43,33,47,2,1
+129,"B4CB","BCD",227,,"CD 4th  Brigade",0,9,0,0,,76,1095,1171,43,33,47,2,1
+130,"B5CB","BCD",227,,"CD 5th  Brigade",0,11,0,0,,87,1350,1437,43,33,47,2,1
+131,"B6CB","BCD",227,,"CD 6th  Brigade",0,11,0,0,,78,1288,1366,43,33,47,2,1
+132,"B7CB","BCD",227,,"CD 7th  Brigade",0,8,0,0,,85,1214,1299,43,33,47,2,1
+133,"H1CB","BCD",227,,"CD 1st Hanovrian Brigade",0,12,0,0,,78,1597,1675,43,33,49,22,1
+134,"F1DC1B","F1DC",171,,"1DC 1ere Brigade",0,6,0,0,,57,747,804,43,33,48,12,1
+135,"F1DC2B","F1DC",171,,"1DC 2eme Brigade",0,5,0,0,,49,653,702,43,33,48,12,1
+136,"F2DC1B","F2DC",172,,"2DC 1ere Brigade",0,8,0,0,,74,971,1045,43,33,48,12,1
+137,"F2DC2B","F2DC",172,,"2DC 2eme Brigade",0,7,0,0,,60,757,817,43,33,48,12,1
+138,"F3DC1B","F3DC",173,,"3DC 1ere Brigade",0,6,0,0,,56,643,699,43,33,48,12,1
+139,"F3DC2B","F3DC",173,,"3DC 2eme Brigade",0,3,0,0,,29,289,318,43,33,48,12,1
+140,"F7DC1B","F7DC",174,,"7DC 1ere Brigade",0,6,0,0,,56,758,814,43,33,48,12,1
+141,"F7DC2B","F7DC",174,,"7DC 2eme Brigade",0,7,0,0,,68,746,814,43,33,48,12,1
+142,"F4DC1B","F4DC",175,,"4DC 1ere Brigade",0,8,0,0,,65,835,900,43,33,48,12,1
+143,"F4DC2B","F4DC",175,,"4DC 2eme Brigade",0,4,0,0,,29,399,428,43,33,48,12,1
+144,"F5DC1B","F5DC",176,,"5DC 1ere Brigade",0,8,0,0,,81,754,835,43,33,48,12,1
+145,"F5DC2B","F5DC",176,,"5DC 2eme Brigade",0,4,0,0,,37,336,373,43,33,48,12,1
+146,"F9DC1B","F9DC",177,,"9DC 1ere Brigade",0,8,0,0,,76,854,930,43,33,48,12,1
+147,"F9DC2B","F9DC",177,,"9DC 2eme Brigade",0,8,0,0,,65,697,762,43,33,48,12,1
+148,"F10DC1B","F10DC",178,,"10DC 1ere Brigade",0,8,0,0,,65,640,705,43,33,48,12,1
+149,"F10DC2B","F10DC",178,,"10DC 2eme Brigade",0,7,0,0,,73,626,699,43,33,48,12,1
+150,"F11DC1B","F11DC",179,,"11DC 1ere Brigade",0,8,0,0,,81,1018,1099,43,33,48,12,1
+151,"F11DC2B","F11DC",179,,"11DC 2eme Brigade",0,5,0,0,,52,725,777,43,33,48,12,1
+152,"F12DC1B","F12DC",180,,"12DC 1ere Brigade",0,6,0,0,,59,783,842,43,33,48,12,1
+153,"F12DC2B","F12DC",180,,"12DC 2eme Brigade",0,6,0,0,,58,719,777,43,33,48,12,1
+154,"F13DC1B","F13DC",181,,"13DC 1ere Brigade",0,7,0,0,,69,689,758,43,33,48,12,1
+155,"F13DC2B","F13DC",181,,"13DC 2eme Brigade",0,4,0,0,,43,377,420,43,33,48,12,1
+156,"F14DC1B","F14DC",182,,"14DC 1ere Brigade",0,6,0,0,,60,689,749,43,33,48,12,1
+157,"F14DC2B","F14DC",182,,"14DC 2eme Brigade",0,7,0,0,,69,801,870,43,33,48,12,1
+158,"P1CR1B","P1CR",119,,"1C 1st Brigade",,,,,,,,,43,33,51,27,1
+159,"P1CR2B","P1CR",119,,"1C 2nd Brigade",,,,,,,,,43,33,51,27,1
+160,"P2CR1B","P2CR",120,,"2C 1st Brigade",,,,,,,,,43,33,51,27,1
+161,"P2CR2B","P2CR",120,,"2C 2nd Brigade",,,,,,,,,43,33,51,27,1
+162,"P2CR3B","P2CR",120,,"2C 3rd Brigade",,,,,,,,,43,33,51,27,1
+163,"P3CR1B","P3CR",121,,"3C 1st Brigade",,,,,,,,,43,33,51,27,1
+164,"P3CR2B","P3CR",121,,"3C 2nd Brigade",,,,,,,,,43,33,51,27,1
+165,"P4CR1B","P4CR",122,,"4C 1st Brigade",,,,,,,,,43,33,51,27,1
+166,"P4CR2B","P4CR",122,,"4C 2nd Brigade",,,,,,,,,43,33,51,27,1
+167,"P4CR3B","P4CR",122,,"4C 3rd Brigade",,,,,,,,,43,33,51,27,1
+168,"NCD","B1A",223,,"Dutch-Belgian Cavalry Division",0,16,1,0,14,175,3471,3646,43,32,52,7,1
+169,"GIDCLgr","GI",231,,"Cavalerie Légère de la Garde",0,13,0,0,,106,1971,2077,43,32,48,17,1
+170,"GIDCLrd","GI",231,,"Cavalerie Lourde de la Garde",0,14,0,0,,99,1619,1718,43,32,48,17,1
+171,"F1DC","F1A",232,,"1eme Division de Cavalerie",0,11,1,0,,111,1553,1664,43,32,48,12,1
+172,"F2DC","F2A",233,,"2eme Division de Cavalerie",0,15,1,0,,140,1885,2025,43,32,48,12,1
+173,"F3DC","F3A",234,,"3eme Division de Cavalerie",0,9,1,0,,91,1106,1197,43,32,48,12,1
+174,"F7DC","F4A",235,,"7eme Division de Cavalerie",0,13,1,0,,130,1660,1790,43,32,48,12,1
+175,"F4DC","F1C",240,,"4eme Division de Cavalerie",0,12,1,0,,97,1388,1485,43,32,48,12,1
+176,"F5DC","F1C",240,,"5eme Division de Cavalerie",0,12,1,0,,122,1253,1375,43,32,48,12,1
+177,"F9DC","F2C",241,,"9eme Division de Cavalerie",0,16,1,0,,146,1665,1811,43,32,48,12,1
+178,"F10DC","F2C",241,,"10eme Division de Cavalerie",0,15,1,0,,141,1398,1539,43,32,48,12,1
+179,"F11DC","F3C",242,,"11eme Division de Cavalerie",0,13,1,0,,138,1899,2037,43,32,48,12,1
+180,"F12DC","F3C",242,,"12eme Division de Cavalerie",0,12,1,0,,122,1655,1777,43,32,48,12,1
+181,"F13DC","F4C",243,,"13eme Division de Cavalerie",0,11,1,0,,117,1220,1337,43,32,48,12,1
+182,"F14DC","F4C",243,,"14eme Division de Cavalerie",0,13,1,0,,134,1649,1783,43,32,48,12,1
+183,"B1IDArt","B1ID",85,,"1BD Divisional Artilery",0,0,2,0,,14,513,527,44,39,47,1,1
+184,"B3IDArt","B3ID",86,,"3BD Divisional Artilery",0,0,2,0,,11,564,575,44,39,47,1,1
+185,"NCDArt","NCD",168,,"DBC Divisional Artilery",0,0,1,0,,8,233,241,44,39,52,6,1
+186,"B2IDArt","B2ID",89,,"2BD Divisional Artilery",0,0,2,0,,14,531,545,44,39,47,1,1
+187,"B4IDART","B4ID",90,,"4BD Divisional Artilery",0,0,2,0,,10,572,582,44,39,47,1,1
+188,"BRESART","BCPSRES",214,,"British Reserve Artillery",0,0,5,0,1,25,1465,1490,44,39,47,1,1
+189,"NDRESART","BCPSRES",214,,"Dutch Reserve Artillery",0,0,2,0,2,35,835,870,44,39,52,6,1
+190,"NRESRP","NDRESART",189,,"Dutch Reserve Park",,,,,,,,,44,39,52,6,1
+191,"BIBArt","BIB",91,,"IB Divisional Artilery",0,0,0,0,,0,0,0,44,39,47,1,1
+259,"GIDCLrdEM","GIDCLrd",170,,"Cavalerie Lourde de la Garde – Etat-Major",,,,,,,,,41,32,48,18,1
+192,"N1IDART","N1ID",92,,"1DBD Divisional Artilery",0,0,1,0,,10,337,347,44,39,52,6,1
+193,"B5IDArt","B5ID",93,,"5BD Divisional Artilery",0,0,2,0,,11,577,588,44,39,47,1,1
+194,"B6IDArt","B6ID",94,,"6BD Divisional Artilery",0,0,2,0,,10,695,705,44,39,47,1,1
+195,"RBCART","RBC",96,,"Brunswick Artilery",0,0,2,0,,10,500,510,44,39,50,31,1
+196,"BCDArt","BCD",227,,"CD Divisional Artilery",0,0,6,0,,32,1018,1050,44,39,47,1,1
+197,"FANParc","FAN",230,,"Parc d'artillerie",0,0,0,0,,0,1400,1400,44,39,48,11,1
+198,"GIAVG","GI",231,,"Artillerie de la Vieille Garde",0,0,13,0,,67,1986,2053,44,39,48,16,1
+199,"GIAAX","GI",231,,"Artillerie Auxiliaire de la Garde",0,0,4,0,,30,1085,1115,44,39,48,16,1
+200,"F1ARes","F1A",232,,"Réserve du 1er Corps d'Armée",0,0,1,1,,8,268,276,44,39,48,11,1
+201,"F1AArt","F1ARes",200,,"Artellerie du 1er Corps d'Armée",0,0,1,0,,4,202,206,44,39,48,11,1
+202,"F2ARes","F2A",233,,"Réserve du 2eme Corps d'Armée",0,0,1,1,,9,257,266,44,39,48,11,1
+203,"F2AArt","F2ARes",202,,"Artellerie du 2eme Corps d'Armée",0,0,1,0,,5,175,180,44,39,48,11,1
+204,"F3ARes","F3A",234,,"Réserve du 3eme Corps d'Armée",0,0,1,0,,6,199,205,44,39,48,11,1
+205,"F3AArt","F3ARes",204,,"Artellerie du 3eme Corps d'Armée",0,0,1,0,,6,199,205,44,39,48,11,1
+206,"F4ARes","F4A",235,,"Réserve du 4eme Corps d'Armée",0,0,1,2,,12,316,328,44,39,48,11,1
+207,"F4AArt","F4ARes",206,,"Artellerie du 4eme Corps d'Armée",0,0,1,0,,6,184,190,44,39,48,11,1
+208,"F6ARes","F6A",237,,"Réserve du 6eme Corps d'Armée",0,0,1,0,,5,219,224,44,39,48,11,1
+209,"F6AArt","F6ARes",208,,"Artellerie du 6eme Corps d'Armée",0,0,1,0,,5,219,224,44,39,48,11,1
+210,"P1AR","P1A",245,,"1C Artillery Reserve",0,0,6,1,5,38,1781,1819,44,39,51,26,1
+211,"P2AR","P2A",249,,"2C Artillery Reserve",0,0,5,1,6,31,1544,1575,44,39,51,26,1
+212,"P3AR","P3A",252,,"3C Artillery Reserve",0,0,3,1,9,25,1037,1062,44,39,51,26,1
+213,"P4AR","P4A",256,,"4C Artilery Reserve",0,0,5,1,8,42,1977,2019,44,39,51,26,1
+364,"N3ID2BDTR","N3ID2B",13,,"Train",,,,,,,,,42,36,52,10,1
+214,"BCPSRES","B2A",224,,"Various Reserves",0,0,7,0,,60,2300,2360,44,32,47,1,1
+215,"GIGen","GI",231,,"Génie de la Garde",0,0,0,2,,6,213,219,45,39,48,18,1
+216,"F1AGen","F1ARes",200,,"Génie du 1er Corps d'Armée",0,0,0,1,,4,66,70,45,39,48,13,1
+217,"F2AGen","F2ARes",202,,"Génie du 2eme Corps d'Armée",0,0,0,1,,4,82,86,45,39,48,13,1
+218,"F3AGen","F3ARes",204,,"Génie du 3eme Corps d'Armée",0,0,0,0,,0,0,0,45,39,48,13,1
+219,"F4AGen","F4ARes",206,,"Génie du 4eme Corps d'Armée",0,0,0,2,,6,132,138,45,39,48,13,1
+221,"BHQ","BLC",220,,"Troupes d'état-major",0,0,0,16,0,37,1397,1434,41,31,47,3,1
+222,"NHQArt","BHQ",221,,"Etat-Major de l'artillerie",0,0,0,3,,5,189,194,41,39,52,8,1
+223,"B1A","BLC",220,,"1st Army Corps",36,16,9,0,,1218,27491,28709,41,31,47,3,1
+224,"B2A","BLC",220,,"2nd Army Corps",23,0,11,0,51,931,16877,17808,41,31,47,3,1
+225,"B3A","BLC",220,,"3rd Corps (Dutch Belgian Army Division)",16,0,2,0,14,430,10083,10513,41,31,47,3,1
+226,"BRA","BLC",220,,"Reserve Corps",31,5,6,0,28,1023,22272,23295,41,31,47,3,1
+227,"BCD","BLC",220,,"British and Hanovrian Cavalry Division",0,82,6,0,29,672,11164,11836,41,31,47,3,1
+228,"B6IDHQ","B6ID",94,,"6th British Division HQ",,,,,,,,,41,32,47,3,1
+229,"BGAR","BLC",220,,"Garnisons troops",19,0,0,0,6,505,14255,14760,41,31,47,3,1
+231,"GI","FAN",230,,"Garde Impériale",23,27,17,2,35,680,19229,19909,41,31,48,18,1
+232,"F1A","FAN",230,,"1er Corps d'Armée",33,11,6,5,29,843,19395,20238,41,31,48,13,1
+233,"F2A","FAN",230,,"2eme Corps d'Armée",41,15,6,5,31,1012,24960,25972,41,31,48,13,1
+234,"F3A","FAN",230,,"3eme Corps d'Armée",31,9,5,3,25,744,16584,17328,41,31,48,13,1
+235,"F4A","FAN",230,,"4eme Corps d'Armée",26,13,5,4,26,680,15273,15953,41,31,48,13,1
+236,"F10DIEM","F10DI",110,,"10eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+237,"F6A","FAN",230,,"6eme Corps d'Armée",21,0,4,2,20,464,9870,10334,41,31,48,13,1
+238,"F7DCEM","F7DC",174,,"7eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+239,"FRESCAV","FAN",230,,"Réserve de Cavalerie",0,104,8,0,,1017,12127,13144,41,31,48,13,1
+240,"F1C","FRESCAV",239,,"1er Corps de Cavalerie",0,24,2,0,19,219,2641,2860,41,31,48,13,1
+241,"F2C","FRESCAV",239,,"2e Corps de Cavalerie",0,31,2,0,8,287,3063,3350,41,31,48,13,1
+242,"F3C","FRESCAV",239,,"3e Corps de Cavalerie",0,25,2,0,9,260,3554,3814,41,31,48,13,1
+243,"F4C","FRESCAV",239,,"4e Corps de Cavalerie",0,24,2,0,10,251,2869,3120,41,31,48,13,1
+245,"P1A","PLR",244,,"1st Army Corps",34,32,11,1,15,823,32306,33129,41,31,51,28,1
+247,"P1CRHQ","P1CR",119,,"1C Cavalry Reserve HQ",,,,,,,,,41,39,51,28,1
+248,"P1ARHQ","P1AR",210,,"1C Artillery Reserve HQ",,,,,,,,,41,39,51,28,1
+249,"P2A","PLR",244,,"2nd Army Corps",37,44,10,1,11,892,32156,33048,41,31,51,28,1
+250,"P2CRHQ","P2CR",120,,"2C Cavalry Reserve HQ",,,,,,,,,41,39,51,28,1
+251,"P2ARHQ","P2AR",211,,"2C Artillery Reserve HQ",,,,,,,,,41,39,51,28,1
+252,"P3A","PLR",244,,"3rd Army Corps",30,25,8,1,14,711,24693,25404,41,31,51,28,1
+253,"P8BrHQ","P8Br",76,,"8th Brigade-HQ",,,,,,,,,41,33,51,28,1
+254,"P3CRHQ","P3CR",121,,"3C Cavalry Reserve HQ",,,,,,,,,41,39,51,28,1
+255,"P3ARHQ","P3AR",212,,"3C Artillery Reserve HQ",,,,,,,,,41,39,51,28,1
+256,"P4A","PLR",244,,"4th Army Corps",36,44,11,1,19,869,32016,32885,41,31,51,28,1
+257,"P4CRHQ","P4CR",122,,"4C Cavalry Reserve HQ",,,,,,,,,41,39,51,28,1
+258,"P4ARHQ","P4AR",213,,"4C Artilery Reserve HQ",,,,,,,,,41,39,51,28,1
+261,"P3BrHQ","P3Br",71,,"3rd Brigade-HQ",,,,,,,,,41,33,51,28,1
+262,"P4BrHQ","P4Br",72,,"4th Brigade-HQ",,,,,,,,,41,33,51,28,1
+263,"P5BrHQ","P5Br",73,,"5th Brigade-HQ",,,,,,,,,41,33,51,28,1
+264,"P6BrHQ","P6Br",74,,"6th Brigade-HQ",,,,,,,,,41,33,51,28,1
+265,"P7BrHQ","P7Br",75,,"7th Brigade-HQ",,,,,,,,,41,33,51,28,1
+266,"P9BrHQ","P9Br",77,,"9th Brigade-HQ",,,,,,,,,41,33,51,28,1
+267,"P10BrHQ","P10Br",78,,"10th Brigade-HQ",,,,,,,,,41,33,51,28,1
+268,"P11BrHQ","P11Br",79,,"11th Brigade-HQ",,,,,,,,,41,33,51,28,1
+269,"P12BrHQ","P12Br",80,,"12th Brigade-HQ",,,,,,,,,41,33,51,28,1
+270,"P13BrHQ","P13Br",81,,"13th Brigade-HQ",,,,,,,,,41,33,51,28,1
+271,"P14BrHQ","P14Br",82,,"14th Brigade-HQ",,,,,,,,,41,33,51,28,1
+272,"P15BrHQ","P15Br",83,,"15th Brigade-HQ",,,,,,,,,41,33,51,28,1
+273,"P16BrHQ","P16Br",84,,"16th Brigade-HQ",,,,,,,,,41,33,51,28,1
+274,"B1IDHQ","B1ID",85,,"1st British Division (Guard) HQ",,,,,,,,,41,32,47,3,1
+275,"B3IDHQ","B3ID",86,,"3rd British Division HQ",,,,,,,,,41,32,47,3,1
+276,"N2IDHQ","N2ID",87,,"2nd Dutch-Belgian Division HQ",,,,,,,,,41,32,52,8,1
+277,"N3IDHQ","N3ID",88,,"3rd Dutch-Belgian Division HQ",,,,,,,,,41,32,52,8,1
+278,"NCDHQ","NCD",168,,"Dutch-Belgian Cavalry Division HQ",,,,,,,,,41,32,52,8,1
+279,"B2IDHQ","B2ID",89,,"2nd British Division HQ",,,,,,,,,41,32,47,3,1
+280,"B4IDHQ","B4ID",90,,"4th British Division HQ",,,,,,,,,41,32,47,3,1
+281,"N1IDHQ","N1ID",92,,"1st Dutch-Belgian Division HQ",,,,,,,,,41,32,52,8,1
+282,"B5IDHQ","B5ID",93,,"5th British Division HQ",,,,,,,,,41,32,47,3,1
+283,"NASSAUHQ","NASSAU",95,,"Nassau HQ",,,,,,,,,41,32,52,8,1
+284,"RBCHQ","RBC",96,,"Brunswick (Corps) Contigent HQ",,,,,,,,,41,32,50,33,1
+285,"G1DIGrEM","G1DIGr",98,,"VG 1ere Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,18,1
+286,"G2DIChEM","G2DICh",99,,"VG 2eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,18,1
+287,"G1DIJGEM","G1DIJG",100,,"JG 1ere Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,18,1
+288,"GIDCLgrEM","GIDCLgr",169,,"Cavalerie Légère de la Garde – Etat-Major",,,,,,,,,41,32,48,18,1
+289,"F1DIEM","F1DI",101,,"1ere Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+290,"F2DIEM","F2DI",102,,"2eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+291,"F3DIEM","F3DI",103,,"3eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+292,"F4DIEM","F4DI",104,,"4eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+293,"F1DCEM","F1DC",171,,"1ere Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+294,"F5DIEM","F5DI",105,,"5eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+295,"F6DIEM","F6DI",106,,"6eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+296,"F7DIEM","F7DI",107,,"7eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+297,"F9DIEM","F9DI",108,,"9eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+298,"F2DCEM","F2DC",172,,"2eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+299,"F8DIEM","F8DI",109,,"8eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+300,"F11DIEM","F11DI",111,,"11eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+301,"F3DCEM","F3DC",173,,"3eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+302,"F12DIEM","F12DI",112,,"12eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+303,"F13DIEM","F13DI",113,,"13eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+304,"F14DIEM","F14DI",114,,"14eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+305,"F19DIEM","F19DI",115,,"19eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+306,"F20DIEM","F20DI",116,,"20eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+307,"F21DIEM","F21DI",117,,"21eme Division d'Infanterie – Etat-Major",,,,,,,,,41,32,48,13,1
+308,"F4DCEM","F4DC",175,,"4eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+309,"F5DCEM","F5DC",176,,"5eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+310,"F9DCEM","F9DC",177,,"9eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+311,"F10DCEM","F10DC",178,,"10eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+312,"F11DCEM","F11DC",179,,"11eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+313,"F12DCEM","F12DC",180,,"12eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+314,"F13DCEM","F13DC",181,,"13eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+610,"P09IRFB","P09IR",607,,"Colberg Rgt N°9 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+315,"F14DCEM","F14DC",182,,"14eme Division de Cavalerie – Etat-Major",,,,,,,,,41,32,48,13,1
+316,"GDutySq","FAN",230,,"Escadrons de service",,,,,,,,,43,37,48,17,1
+317,"F6DITR","F6DI",106,,"1er ESC TR 1eCie",,,,,,2,102,104,44,37,48,11,1
+318,"P14IR","P7Br",75,,"14th Inf Rgt",3,,,,,,,,42,34,51,30,1
+319,"B01RFG2B","B1IB",5,,"1st R Foot-Guards 2nd Bn",1,,,,,33,943,976,42,35,47,5,1
+320,"B01RFG3B","B1IB",5,,"1st R Foot-Guards 3rd Bn",1,,,,,41,980,1021,42,35,47,5,1
+321,"B02RFG2B","B2IB",6,,"2nd (Coldstream) RF-G 2nd Bn",1,,,,,34,969,1003,42,35,47,5,1
+322,"P14IR1B","P14IR",318,,"14th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+323,"B03RFG2B","B2IB",6,,"3rd R Foot-Guards 2nd Bn",1,,,,,40,1021,1061,42,35,47,5,1
+324,"B30RF2B","B5IB",7,,"30th (Cambridge) RF 2nd Bn",1,,,,,40,575,615,42,35,47,5,1
+325,"B33RF1B","B5IB",7,,"33rd(1st York West Riding) RF Bn",1,,,,,43,518,561,42,35,47,5,1
+326,"B69RF2B","B5IB",7,,"69th (South Lincoln) RF 2nd Bn",1,,,,,22,494,516,42,35,47,5,1
+327,"B73RF2B","B5IB",7,,"73rd (Highland) RF 2nd Bn",1,,,,,31,531,562,42,35,47,5,1
+328,"B01KLG","B2KIB",8,,"1st KGL Light Bn (Duke of York)",1,,,,,30,466,496,42,35,47,5,1
+329,"B02KLG","B2KIB",8,,"2nd KGL Light Bn",1,,,,,24,383,407,42,35,47,5,1
+599,"P25IR1B","P25IR",598,,"25th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+330,"B05KLN","B2KIB",8,,"5th KGL Line Bn",1,,,,,27,424,451,42,35,47,5,1
+331,"B08KLN","B2KIB",8,,"8th KGL Line Bn",1,,,,,28,445,473,42,35,47,5,1
+332,"B67KLN","B2KIB",8,,"Detached from 6th and 7th Bns",,,,,,1,15,16,42,36,47,5,1
+333,"HbremLN","H1IB",9,,"1st Han. Line Bn BREME",1,,,,,21,491,512,42,35,49,25,1
+334,"HosnaLG","H1IB",9,,"1st Han.Light Bn (Duke of York)",1,,,,,30,577,607,42,35,49,25,1
+335,"HluneLG","H1IB",9,,"Han. Light Bn Lunebourg n°1",1,,,,,27,568,595,42,35,49,25,1
+336,"HgrubLG","H1IB",9,,"Han.Light Bn Gröenhagen n°1",1,,,,,32,589,621,42,35,49,25,1
+337,"HverdLN","H1IB",9,,"1st Han. Line Bn Verden",1,,,,,23,510,533,42,35,49,25,1
+338,"HfljgLG","H1IB",9,,"Kielmansegge Feldjaeger Korps",,,,,,10,311,321,42,36,49,25,1
+339,"N27BJB","N2ID1B",10,,"27th Dutch Chasseurs Bn",1,,,,,23,786,809,42,35,52,10,1
+340,"N07BLB","N2ID1B",10,,"7th Belgian Line Bn",1,,,,,23,678,701,42,35,52,10,1
+341,"N05DMB","N2ID1B",10,,"5th Dutch Militia Bn",1,,,,,22,460,482,42,35,52,10,1
+342,"N07DMB","N2ID1B",10,,"7th Dutch Militia Bn",1,,,,,24,651,675,42,35,52,10,1
+343,"N08DMB","N2ID1B",10,,"8th Dutch Militia Bn",1,,,,,23,543,566,42,35,52,10,1
+344,"N02NLG","N2ID2B",11,,"2nd Nassau-Usingen Light Regiment",,,,,,,,,42,34,52,10,1
+345,"N02NLG1B","N02NLG",344,,"2nd Nassau-Usingen Light Regiment 1st Bn",1,,,,,30,895,925,42,35,52,10,1
+346,"N02NLG2B","N02NLG",344,,"2nd Nassau-Usingen Light Regiment 2nd Bn",1,,,,,28,857,885,42,35,52,10,1
+347,"N02NLG3B","N02NLG",344,,"2nd Nassau-Usingen Light Regiment 3rd Bn",1,,,,,28,871,899,42,35,52,10,1
+348,"N28OLN","N2ID",87,,"Orange-Nassau Regiment",2,0,1,0,,55,1703,1758,42,34,52,10,1
+349,"N28OLN1B","N28OLN",348,,"1st O-N Bn",1,,,,,28,865,893,42,35,52,10,1
+350,"N28OLN2B","N28OLN",348,,"2nd O-N Bn",1,,,,,22,666,688,42,35,52,10,1
+351,"N28OLNJB","N28OLN",348,,"Chasseurs volunteers",,,,,,5,172,177,42,36,52,10,1
+352,"N35BJB","N3ID1B",12,,"35th Belgian Chasseurs Bn",1,,,,,21,584,605,42,35,52,10,1
+353,"N02DLB","N3ID1B",12,,"2nd Dutch Line Bn",1,,,,,24,447,471,42,35,52,10,1
+354,"N04DMB","N3ID1B",12,,"4th Dutch Militia Bn",1,,,,,24,495,519,42,35,52,10,1
+355,"N06DMB","N3ID1B",12,,"6th Dutch Militia Bn",1,,,,,23,469,492,42,35,52,10,1
+356,"N17DMB","N3ID1B",12,,"17th Dutch Militia Bn",1,,,,,26,508,534,42,35,52,10,1
+357,"N19DMB","N3ID1B",12,,"19th Dutch Militia Bn",1,,,,,23,444,467,42,35,52,10,1
+358,"N36BJB","N3ID2B",13,,"36th Belgian Chasseurs Bn",1,,,,,22,611,633,42,35,52,10,1
+359,"N03BLB","N3ID2B",13,,"3rd Belgian Line Bn",1,,,,,20,609,629,42,35,52,10,1
+360,"N12DLB","N3ID2B",13,,"12th Dutch Line Bn",1,,,,,24,407,431,42,35,52,10,1
+361,"N13DLB","N3ID2B",13,,"13th Dutch Line Bn",1,,,,,25,639,664,42,35,52,10,1
+362,"N03DMB","N3ID2B",13,,"3rd Dutch Militia Bn",1,,,,,21,571,592,42,35,52,10,1
+363,"N10DMB","N3ID2B",13,,"10th Dutch Militia Bn",1,,,,,27,605,632,42,35,52,10,1
+365,"B52RFLGB","B3IB",14,,"52th (Oxford) RF Light Bn",1,,,,,59,979,1038,42,35,47,5,1
+366,"B71RFLGB","B3IB",14,,"71st (Highland) RF Light Bn",1,,,,,51,759,810,42,35,47,5,1
+367,"B95RF6Cies","B3IB",14,,"95th RF (Rifle corps) 6 Cies",1,,,,,36,549,585,42,35,47,5,1
+368,"B95RF2Cies","B3IB",14,,"95th RF (Rifle corps) 2 Cies",,,,,,12,176,188,42,35,47,5,1
+369,"B01KLN","B1KIB",15,,"1st KGL Line Bn",1,,,,,28,436,464,42,35,47,5,1
+370,"B02KLN","B1KIB",15,,"2nd KGL Line Bn",1,,,,,31,491,522,42,35,47,5,1
+371,"B03KLN","B1KIB",15,,"3rd KGL Line Bn",1,,,,,34,530,564,42,35,47,5,1
+372,"B04KLN","B1KIB",15,,"4th KGL Line Bn",1,,,,,29,455,484,42,35,47,5,1
+373,"HBREMELW","H3IB",16,,"Bremervörde Landwehr Bn",1,,,,,34,598,632,42,35,49,25,1
+374,"HOSNABLW","H3IB",16,,"Osnabrück Landwehr Bn",1,,,,,30,582,612,42,35,49,25,1
+375,"HQUACKLW","H3IB",16,,"Quackenbrück Landwehr Bn",1,,,,,27,561,588,42,35,49,25,1
+376,"HSALZGLW","H3IB",16,,"Salzgitter Landwher Bn",1,,,,,32,590,622,42,35,49,25,1
+377,"B14RF3B","B4IB",17,,"14th (Buckingham) RF 3rd Bn",1,,,,,40,531,571,42,35,47,5,1
+378,"B23RFB","B4IB",17,,"23rd (R1 Welch Fusilers) RF Bn",1,,,,,44,603,647,42,35,47,5,1
+379,"B51RF2B","B4IB",17,,"51st (2nd York West Riding) RF 2nd Bn",1,,,,,45,504,549,42,35,47,5,1
+380,"B35RF2B","B6IB",18,,"35th (Sussex) RF 2nd Bn",1,,,,,39,531,570,42,35,47,5,1
+381,"B54RFUB","B6IB",18,,"54th (West Norfolk) RF BN U",1,,,,,43,498,541,42,35,47,5,1
+382,"B59RF2B","B6IB",18,,"59th (2nd Nottingham) RF 2nd Bn",1,,,,,35,426,461,42,35,47,5,1
+383,"B91RF2B","B6IB",18,,"91st RF 2nd Bn",1,,,,,41,783,824,42,35,47,5,1
+384,"HLAUENLN","H6IB",19,,"Lauenburg Line Bn",1,,,,,24,529,553,42,35,49,25,1
+385,"HCALENLN","H6IB",19,,"Calenberg Line Bn",1,,,,,34,600,634,42,35,49,25,1
+386,"HNIENBLW","H6IB",19,,"Nienburg Landwehr Bn",1,,,,,32,593,625,42,35,49,25,1
+387,"HHOYALW","H6IB",19,,"Hoya Landwehr Bn",1,,,,,33,596,629,42,35,49,25,1
+388,"HBENTHLW","H6IB",19,,"Bentheim Landwehr Bn",1,,,,,34,574,608,42,35,49,25,1
+389,"B5IIRLN","BIB",91,,"5th Indian Line Rgt",2,,,,,55,1486,1541,42,34,47,5,1
+390,"B5IIRLN1B","BIB",91,,"5th Indian Line Rgt, 1st Bn",,,,,,,,,42,35,47,5,1
+391,"B5IIRLN2B","BIB",91,,"5th Indian Line Rgt, 2nd Bn",,,,,,,,,42,35,47,5,1
+392,"B19IIRFLB","BIB",91,,"19-20th Indian Rgt Flank. Bn",1,,,,,29,507,536,42,35,47,5,1
+393,"B10IIRJB","BIB",91,,"10th Indian Chasseurs Bn",1,,,,,30,674,704,42,35,47,5,1
+394,"B11IIRJB","BIB",91,,"11th Indian Chasseurs Bn",1,,,,,33,685,718,42,35,47,5,1
+395,"N16DJB","N1IB",20,,"16th Dutch Chasseurs Bn",1,,,,,28,462,490,42,35,52,10,1
+396,"N04BLB","N1IB",20,,"4th Belgian Line Bn",1,,,,,22,526,548,42,35,52,10,1
+397,"N06DLB","N1IB",20,,"6th Dutch Line Bn",1,,,,,29,402,431,42,35,52,10,1
+398,"N09DMB","N1IB",20,,"9th Dutch Militia Bn",1,,,,,24,531,555,42,35,52,10,1
+399,"N14DMB","N1IB",20,,"14th Dutch Militia Bn",1,,,,,25,561,586,42,35,52,10,1
+400,"N15DMB","N1IB",20,,"15th Dutch Militia Bn",1,,,,,23,636,659,42,35,52,10,1
+401,"N18DJB","N2IB",21,,"18th Dutch Chasseurs Bn",1,,,,,21,777,798,42,35,52,10,1
+402,"N01BLB","N2IB",21,,"1st Belgian Line Bn",1,,,,,23,659,682,42,35,52,10,1
+403,"N01DMB","N2IB",21,,"1st Dutch Militia Bn",1,,,,,23,568,591,42,35,52,10,1
+404,"N02DMB","N2IB",21,,"2nd Dutch Militia Bn",1,,,,,24,558,582,42,35,52,10,1
+405,"N18DMB","N2IB",21,,"18th Dutch Militia Bn",1,,,,,24,491,515,42,35,52,10,1
+406,"B28RF1B","B8IB",22,,"28th (North Gloucester) RF 1st Bn",1,,,,,37,520,557,42,35,47,5,1
+407,"B32RF1B","B8IB",22,,"32th (Cornwall) RF 1st Bn",1,,,,,49,613,662,42,35,47,5,1
+408,"B79RF1B","B8IB",22,,"79th (Cameron Highlander) RF Bn",1,,,,,46,657,703,42,35,47,5,1
+409,"B95RFBn","B8IB",22,,"95th RF (Rifle corps) 6 Cies",1,,,,,30,519,549,42,35,47,5,1
+410,"HHAMENLW","H5IB",23,,"Hameln Landwehr Bn",1,,,,,43,626,669,42,35,49,25,1
+411,"HGIFHORLW","H5IB",23,,"Gifhorn Landwehr Bn",1,,,,,32,585,617,42,35,49,25,1
+412,"HHILDELW","H5IB",23,,"Hildesheim Landwehr Bn",1,,,,,31,586,617,42,35,49,25,1
+413,"HPEINELW","H5IB",23,,"Peine Landwehr Bn",1,,,,,30,581,611,42,35,49,25,1
+414,"B01RF3B","B9IB",24,,"1st (Royal Scots) RF 3rd Bn",1,,,,,43,561,604,42,35,47,5,1
+415,"B42RF1B","B9IB",24,,"42nd (Royal Highlands) RF Bn",1,,,,,35,491,526,42,35,47,5,1
+416,"B44RF2B","B9IB",24,,"44th (East Sussex) RF 2nd Bn",1,,,,,29,426,455,42,35,47,5,1
+417,"B92RF1B","B9IB",24,,"92nd (Gordon Highlands) RF 1st Bn",1,,,,,40,548,588,42,35,47,5,1
+418,"B04RF1B","B10IB",25,,"4th (King's own) RF 1st Bn",1,,,,,40,629,669,42,35,47,5,1
+419,"B27RF1B","B10IB",25,,"27th (Inniskillings) RF 1st Bn",1,,,,,21,677,698,42,35,47,5,1
+420,"B40RF1B","B10IB",25,,"40th (2nd Somerset) RF 1st Bn",1,,,,,47,714,761,42,35,47,5,1
+421,"B81RF2B","B10IB",25,,"81th RF 2nd Bn (à Bruxelles)",1,,,,,27,412,439,42,35,47,5,1
+422,"HVERDELW","H4IB",26,,"Verden Landwehr Bn",1,,,,,32,589,621,42,35,49,25,1
+423,"HLUNELW","H4IB",26,,"Lunebourg Landwehr Bn",1,,,,,32,592,624,42,35,49,25,1
+424,"HOSTERLW","H4IB",26,,"Osterode Landwehr Bn",1,,,,,39,638,677,42,35,49,25,1
+425,"HMUNDELW","H4IB",26,,"Munden Landwehr Bn",1,,,,,34,626,660,42,35,49,25,1
+426,"N1NIR","NASSAU",95,,"1st Duke of Nassau Rgt",2,0,0,0,,36,1858,1894,42,34,52,10,1
+427,"N1NIR1B","N1NIR",426,,"1st Duke of Nassau Rgt, 1st Bn",1,,,,,18,933,951,42,35,52,10,1
+428,"N1NIR2B","N1NIR",426,,"1st Duke of Nassau Rgt, 2nd Bn",1,,,,,18,925,943,42,35,52,10,1
+429,"N1NIRLW","NASSAU",95,,"Landwehr Bn",1,,,,,17,930,947,42,35,52,10,1
+430,"RFRBN","RBC",96,,"Foreguard Bn",1,,,,,24,648,672,42,35,50,35,1
+431,"RLBIB","RLGIB",27,,"Leib Bn – Guard",1,,,,,22,650,672,42,35,50,35,1
+432,"RLGIR","RLGIB",27,,"Brunswick Light Rgt",3,,,,,60,1956,2016,42,34,50,35,1
+433,"RLGIR1B","RLGIR",432,,"Brunswick Light Rgt, 1st Bn",,,,,,,,,42,35,50,35,1
+434,"RLGIR2B","RLGIR",432,,"Brunswick Light Rgt, 2nd Bn",,,,,,,,,42,35,50,35,1
+435,"RLGIR3B","RLGIR",432,,"Brunswick Light Rgt, 3rd Bn",,,,,,,,,42,35,50,35,1
+436,"RLNIR","RLNIB",28,,"Brunswick Line Rgt",3,,,,,60,1956,2016,42,34,50,35,1
+437,"RLNIR1B","RLNIR",436,,"Brunswick Line Rgt, 1st Bn",,,,,,,,,42,35,50,35,1
+438,"RLNIR2B","RLNIR",436,,"Brunswick Line Rgt, 2nd Bn",,,,,,,,,42,35,50,35,1
+439,"RLNIR3B","RLNIR",436,,"Brunswick Line Rgt, 3rd Bn",,,,,,,,,42,35,50,35,1
+440,"HHOYALN","HR1IB",29,,"HOYA Line Bn",1,,,,,28,692,720,42,35,49,25,1
+441,"HMOLNLW","HR1IB",29,,"MOLNN Landwehr Bn",1,,,,,20,692,712,42,35,49,25,1
+442,"HBREMELN","HR1IB",29,,"BREMERLEHE Bn",1,,,,,28,692,720,42,35,49,25,1
+443,"HNORDLW","HR2IB",30,,"NORDHEIM Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+444,"HAFLELW","HR2IB",30,,"ALFELD Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+445,"HSPRINLW","HR2IB",30,,"SPRINGE Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+446,"HALTELW","HR3IB",31,,"ALTENDORF Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+447,"HCELLELW","HR3IB",31,,"CELLE Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+448,"HRATZLW","HR3IB",31,,"RATZENBURG Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+449,"HHANOLW","HR4IB",32,,"Hanover Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+450,"HUELZLW","HR4IB",32,,"UELZEN Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+451,"HNEUSLW","HR4IB",32,,"NEUSTADT Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+452,"HDIEPLW","HR4IB",32,,"DIEPHOLZ Landwehr Bn",1,,,,,24,692,716,42,35,49,25,1
+453,"B25RF2B","B7ID",97,,"25th (King's Own Borderers) RF 2nd Bn",1,,,,,23,365,388,42,35,47,5,1
+454,"B37RF2B","B7ID",97,,"37th (North Hampshire) RF 2nd Bn",1,,,,,29,462,491,42,35,47,5,1
+455,"B78RF2B","B7ID",97,,"78th (Rosshire Buff Higl.) RF 2nd Bn",1,,,,,21,316,337,42,35,47,5,1
+456,"BKGL1B","B7ID",97,,"1st bat vétérans étrangers KGL",1,,,,,34,561,595,42,35,47,5,1
+457,"B13RFUB","BGARNISONS",2,,"13th British Veterans Bn",1,,,,,21,662,683,42,35,47,5,1
+458,"BGARRF2B","BGARNISONS",2,,"2nd British Garnison Bn",1,,,,,46,693,739,42,35,47,5,1
+459,"B29RFUB","BGARNISONS",2,,"29th (Worcester) RF Bn U",,,,,,,,,42,35,47,5,1
+460,"B43RF1B","BGARNISONS",2,,"43th (Monmouth) light RF 1st Bn",,,,,,,,,42,35,47,5,1
+461,"B07RF1B","BGARNISONS",2,,"7th Royal Fusillers. RF 1st Bn",,,,,,,,,42,35,47,5,1
+462,"G1RIGr","G1DIGr",98,,"1er Régiment de Grenadiers",2,,,,,32,1006,1038,42,34,48,20,1
+463,"G2RIGr","G1DIGr",98,,"2eme Régiment de Grenadiers",2,,,,,32,1063,1095,42,34,48,20,1
+464,"G3RIGr","G1DIGr",98,,"3eme Régiment de Grenadiers",2,,,,,34,1146,1180,42,34,48,20,1
+465,"G4RIGr","G1DIGr",98,,"4eme Régiment de Grenadiers",1,,,,,25,503,528,42,34,48,20,1
+466,"G1RICh","G2DICh",99,,"1er Régiment de Chasseurs",2,,,,,36,1271,1307,42,34,48,20,1
+467,"G2RICh","G2DICh",99,,"2eme Régiment de Chasseurs",2,,,,,32,1131,1163,42,34,48,20,1
+468,"G3RICh","G2DICh",99,,"3eme Régiment de Chasseurs",2,,,,,34,1028,1062,42,34,48,20,1
+469,"G4RICh","G2DICh",99,,"4eme Régiment de Chasseurs",2,,,,,30,1041,1071,42,34,48,20,1
+470,"G1RITr","G1DI1B",33,,"1er Régiment de Tirailleurs",2,,,,,32,935,967,42,34,48,20,1
+471,"G1RIVo","G1DI1B",33,,"1er Régiment de Voltigeurs",2,,,,,31,1188,1219,42,34,48,20,1
+472,"G3RITr","G1DI2B",34,,"3eme Régiment de Tirailleurs",2,,,,,28,960,988,42,34,48,20,1
+473,"G3RIVo","G1DI2B",34,,"3eme Régiment de Voltigeurs",2,,,,,26,1083,1109,42,34,48,20,1
+474,"F054RILN","F1DI1B",35,,"54eme Régiment de Ligne",2,,,,,41,921,962,42,34,48,15,1
+475,"F055RILN","F1DI1B",35,,"55eme Régiment de Ligne",2,,,,,45,1103,1148,42,34,48,15,1
+476,"F028RILN","F1DI2B",36,,"28eme Régiment de Ligne",2,,,,,42,856,898,42,34,48,15,1
+477,"F105RILN","F1DI2B",36,,"105eme Régiment de Ligne",2,,,,,42,941,983,42,34,48,15,1
+478,"F013RILG","F2DI1B",37,,"13eme Régiment Léger",3,,,,,61,1814,1875,42,34,48,15,1
+479,"F017RILN","F2DI1B",37,,"17eme Régiment de Ligne",2,,,,,42,1015,1057,42,34,48,15,1
+480,"F019RILN","F2DI2B",38,,"19eme Régiment de Ligne",2,,,,,43,989,1032,42,34,48,15,1
+481,"F051RILN","F2DI2B",38,,"51eme Régiment de Ligne",2,,,,,42,1126,1168,42,34,48,15,1
+482,"F021RILN","F3DI1B",39,,"21eme Régiment de Ligne",2,,,,,42,995,1037,42,34,48,15,1
+483,"F046RILN","F3DI1B",39,,"46eme Régiment de Ligne",2,,,,,43,845,888,42,34,48,15,1
+484,"F025RILN","F3DI2B",40,,"25eme Régiment de Ligne",2,,,,,40,934,974,42,34,48,15,1
+485,"F045RILN","F3DI2B",40,,"45eme Régiment de Ligne",2,,,,,43,960,1003,42,34,48,15,1
+486,"F008RILN","F4DI1B",41,,"8eme Régiment de Ligne",2,,,,,40,943,983,42,34,48,15,1
+487,"F029RILN","F4DI1B",41,,"29eme Régiment de Ligne",2,,,,,40,1106,1146,42,34,48,15,1
+488,"F085RILN","F4DI2B",42,,"85eme Régiment de Ligne",2,,,,,40,991,1031,42,34,48,15,1
+489,"F095RILN","F4DI2B",42,,"95eme Régiment de Ligne",2,,,,,40,1060,1100,42,34,48,15,1
+490,"F002RILG","F5DI1B",43,,"2eme Régiment Léger",3,,,,,59,1654,1713,42,34,48,15,1
+491,"F061RILN","F5DI1B",43,,"61eme Régiment de Ligne",2,,,,,41,817,858,42,34,48,15,1
+492,"F072RILN","F5DI2B",44,,"72eme Régiment de Ligne",2,,,,,42,953,995,42,34,48,15,1
+493,"F108RILN","F5DI2B",44,,"108eme Régiment de Ligne",3,,,,,61,1846,1907,42,34,48,15,1
+494,"F001RILG","F6DI1B",45,,"1er Régiment Léger",3,,,,,64,1824,1888,42,34,48,15,1
+495,"F003RILN","F6DI1B",45,,"3eme Régiment de Ligne",2,,,,,42,1101,1143,42,34,48,15,1
+496,"F001RILN","F6DI2B",46,,"1er Régiment de Ligne",3,,,,,59,1736,1795,42,34,48,15,1
+497,"F002RILN","F6DI2B",46,,"2eme Régiment de Ligne",3,,,,,65,1730,1795,42,34,48,15,1
+498,"F011RILG","F7DI1B",47,,"11eme Régiment Léger",2,,,,,42,1193,1235,42,34,48,15,1
+499,"F082RILN","F7DI1B",47,,"82eme Régiment de Ligne",2,,,,,40,1110,1150,42,34,48,15,1
+500,"F012RILG","F7DI2B",48,,"12eme Régiment Léger",3,,,,,51,1541,1592,42,34,48,15,1
+501,"F004RILN","F7DI2B",48,,"4eme Régiment de Ligne",2,,,,,44,1157,1201,42,34,48,15,1
+502,"F092RILN","F9DI1B",49,,"92eme Régiment de Ligne",2,,,,,40,1028,1068,42,34,48,15,1
+503,"F093RILN","F9DI1B",49,,"93eme Régiment de Ligne",3,,,,,60,1426,1486,42,34,48,15,1
+504,"F100RILN","F9DI2B",50,,"100eme Régiment de Ligne",3,,,,,51,1067,1118,42,34,48,15,1
+505,"F004RILG","F9DI2B",50,,"4eme Régiment Léger",3,,,,,61,1573,1634,42,34,48,15,1
+506,"F015RILG","F8DI1B",51,,"15eme Régiment Léger",3,,,,,62,1676,1738,42,34,48,15,1
+507,"F023RILN","F8DI1B",51,,"23eme Régiment de Ligne",3,,,,,62,1152,1214,42,34,48,15,1
+508,"F037RILN","F8DI2B",52,,"37eme Régiment de Ligne",3,,,,,59,1117,1176,42,34,48,15,1
+509,"F064RILN","F8DI2B",52,,"64eme Régiment de Ligne",2,,,,,40,891,931,42,34,48,15,1
+510,"F034RILN","F10DI1B",53,,"34eme Régiment de Ligne",3,,,,,55,1384,1439,42,34,48,15,1
+511,"F088RILN","F10DI1B",53,,"88eme Régiment de Ligne",3,,,,,57,1265,1322,42,34,48,15,1
+512,"F022RILN","F10DI2B",54,,"22eme Régiment de Ligne",3,,,,,55,1406,1461,42,34,48,15,1
+513,"F070RILN","F10DI2B",54,,"70eme Régiment de Ligne",2,,,,,45,909,954,42,34,48,15,1
+514,"F012RILN","F11DI1B",55,,"12eme Régiment de Ligne",2,,,,,41,1171,1212,42,34,48,15,1
+515,"F056RILN","F11DI1B",55,,"56eme Régiment de Ligne",2,,,,,42,1234,1276,42,34,48,15,1
+516,"F033RILN","F11DI2B",56,,"33eme Régiment de Ligne",2,,,,,39,1097,1136,42,34,48,15,1
+517,"F086RILN","F11DI2B",56,,"86eme Régiment de Ligne",2,,,,,44,870,914,42,34,48,15,1
+518,"F030RILN","F12DI1B",57,,"30eme Régiment de Ligne",3,,,,,54,1399,1453,42,34,48,15,1
+519,"F096RILN","F12DI1B",57,,"96eme Régiment de Ligne",3,,,,,51,1387,1438,42,34,48,15,1
+520,"F063RILN","F12DI2B",58,,"63eme Régiment de Ligne",3,,,,,53,1214,1267,42,34,48,15,1
+521,"F006RILG","F12DI2B",58,,"6eme Régiment Léger",1,,,,,20,591,611,42,34,48,15,1
+522,"F059RILN","F13DI1B",59,,"59eme Régiment de Ligne",2,,,,,42,1015,1057,42,34,48,15,1
+523,"F076RILN","F13DI1B",59,,"76eme Régiment de Ligne",2,,,,,40,1014,1054,42,34,48,15,1
+524,"F048RILN","F13DI2B",60,,"48eme Régiment de Ligne",2,,,,,43,834,877,42,34,48,15,1
+525,"F069RILN","F13DI2B",60,,"69eme Régiment de Ligne",2,,,,,40,1077,1117,42,34,48,15,1
+526,"F009RILG","F14DI1B",61,,"9eme Régiment Léger",2,,,,,43,1215,1258,42,34,48,15,1
+527,"F111RILN","F14DI1B",61,,"111eme Régiment de Ligne",2,,,,,43,1035,1078,42,34,48,15,1
+528,"F044RILN","F14DI2B",62,,"44eme Régiment de Ligne",2,,,,,43,934,977,42,34,48,15,1
+529,"F050RILN","F14DI2B",62,,"50eme Régiment de Ligne",2,,,,,40,874,914,42,34,48,15,1
+530,"F005RILN","F19DI1B",63,,"5eme Régiment de Ligne",2,,,,,42,910,952,42,34,48,15,1
+531,"F011RILN","F19DI1B",63,,"11eme Régiment de Ligne",3,,,,,61,1135,1196,42,34,48,15,1
+532,"F027RILN","F19DI2B",64,,"27eme Régiment de Ligne",2,,,,,39,782,821,42,34,48,15,1
+533,"F084RILN","F19DI2B",64,,"84eme Régiment de Ligne",2,,,,,45,894,939,42,34,48,15,1
+534,"P14IR2B","P14IR",318,,"14th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+535,"F005RILG","F20DI1B",65,,"5eme Régiment Léger",2,,,,,42,834,876,42,34,48,15,1
+536,"F010RILN","F20DI1B",65,,"10eme Régiment de Ligne",3,,,,,56,1375,1431,42,34,48,15,1
+537,"F047RILN","F20DI2B",66,91,"47eme Régiment de Ligne",,,,,,,,,42,34,48,15,1
+538,"F107TILN","F20DI2B",66,,"107eme Régiment de Ligne",2,,,,,44,692,736,42,34,48,15,1
+539,"F008RILG","F21DI1B",67,,"8eme Régiment Léger",2,,,,,42,896,938,42,34,48,15,1
+540,"F065RILN","F21DI2B",68,,"65eme Régiment de Ligne",1,,,,,22,481,503,42,34,48,15,1
+541,"F075RILN","F21DI2B",68,,"75eme Régiment de Ligne",2,,,,,42,939,981,42,34,48,15,1
+542,"P12IR","P1Br",69,,"2nd Brandebourg Rgt N°12",3,,,,,,,,42,34,51,30,1
+543,"P12IR1B","P12IR",542,,"2nd Brandebourg Rgt N°12 1st Bn",,,,,,,,,42,35,51,30,1
+544,"P12IR2B","P12IR",542,,"2nd Brandebourg Rgt N°12 2nd Bn",,,,,,,,,42,35,51,30,1
+545,"P12IRFB","P12IR",542,,"2nd Brandebourg Rgt N°12 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+546,"P24IR","P1Br",69,,"24th Inf Rgt",3,,,,,,,,42,34,51,30,1
+547,"P24IR1B","P24IR",546,,"24th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+548,"P24IR2B","P24IR",546,,"24th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+549,"P24IRFB","P24IR",546,,"24th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+550,"P1WLIR","P1Br",69,,"1st Wesphalian Landwehr Rgt",4,,,,,,,,42,34,51,30,1
+551,"P1WLIR1B","P1WLIR",550,,"1st Wesphalian Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+552,"P1WLIR2B","P1WLIR",550,,"1st Wesphalian Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+553,"P1WLIR3B","P1WLIR",550,,"1st Wesphalian Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+554,"PSileTIR3C","P1Br",69,,"Silesian Tirailleurs 3rd Cie",,,,,,,,,42,36,51,30,1
+555,"PSileTIR4C","P1Br",69,,"Silesian Tirailleurs 4th Cie",,,,,,,,,42,36,51,30,1
+556,"P06IR","P2Br",70,,"1st Occ. Prussia Rgt N°6",3,,,,,,,,42,34,51,30,1
+557,"P06IR1B","P06IR",556,,"1st Occ. Prussia Rgt N°6 1st Bn",,,,,,,,,42,35,51,30,1
+558,"P06IR2B","P06IR",556,,"1st Occ. Prussia Rgt N°6 2nd Bn",,,,,,,,,42,35,51,30,1
+559,"P06IRFB","P06IR",556,,"1st Occ. Prussia Rgt N°6 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+560,"P28IR","P2Br",70,,"28th Inf Rgt",3,,,,,,,,42,34,51,30,1
+561,"P28IR1B","P28IR",560,,"28th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+562,"P28IR2B","P28IR",560,,"28th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+563,"P28IRFB","P28IR",560,,"28th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+564,"P2WLIR","P2Br",70,,"2nd Wesphalian Landwehr Rgt",3,,,,,,,,42,34,51,30,1
+565,"P2WLIR1B","P2WLIR",564,,"2nd Wesphalian Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+566,"P2WLIR2B","P2WLIR",564,,"2nd Wesphalian Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+567,"P2WLIR3B","P2WLIR",564,,"2nd Wesphalian Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+568,"P07IR","P3Br",71,,"2nd Occ. Prussia Rgt N°7",3,,,,,,,,42,34,51,30,1
+569,"P07IR1B","P07IR",568,,"2nd Occ. Prussia Rgt N°7 1st Bn",,,,,,,,,42,35,51,30,1
+570,"P07IR2B","P07IR",568,,"2nd Occ. Prussia Rgt N°7 2nd Bn",,,,,,,,,42,35,51,30,1
+571,"P07IRFB","P07IR",568,,"2nd Occ. Prussia Rgt N°7 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+572,"P29IR","P3Br",71,,"29th Inf Rgt",3,,,,,,,,42,34,51,30,1
+573,"P29IR1B","P29IR",572,,"29th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+574,"P29IR2B","P29IR",572,,"29th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+575,"P29IRFB","P29IR",572,,"29th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+576,"P3WLIR","P3Br",71,,"3rd Wesphalian Landwehr Rgt",4,,,,,,,,42,34,51,30,1
+577,"P3WLIR1B","P3WLIR",576,,"3rd Wesphalian Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+578,"P3WLIR2B","P3WLIR",576,,"3rd Wesphalian Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+579,"P3WLIR3B","P3WLIR",576,,"3rd Wesphalian Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+580,"PSileTIR1C","P3Br",71,,"Silesian Tirailleurs 1st Cie",,,,,,,,,42,36,51,30,1
+581,"PSileTIR2C","P3Br",71,,"Silesian Tirailleurs 2nd Cie",,,,,,,,,42,36,51,30,1
+582,"P13IR","P4Br",72,91,"13th Inf Rgt",,,,,,,,,42,34,51,30,1
+583,"P13IR1B","P13IR",582,91,"13th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+584,"P13IR2B","P13IR",582,91,"13th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+585,"P13IRFB","P13IR",582,91,"13th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+586,"P19IR","P4Br",72,,"19th Inf Rgt",3,,,,,,,,42,34,51,30,1
+587,"P19IR1B","P19IR",586,,"19th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+588,"P19IR2B","P19IR",586,,"19th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+589,"P19IRFB","P19IR",586,,"19th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+590,"P4WLIR","P4Br",72,,"4th Wesphalian Landwehr Rgt",3,,,,,,,,42,34,51,30,1
+591,"P4WLIR1B","P4WLIR",590,,"4th Wesphalian Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+592,"P4WLIR2B","P4WLIR",590,,"4th Wesphalian Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+593,"P4WLIR3B","P4WLIR",590,,"4th Wesphalian Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+594,"P02IR","P5Br",73,,"1st Pomeranian Rgt N°2",3,,,,,,,,42,34,51,30,1
+595,"P02IR1B","P02IR",594,,"1st Pomeranian Rgt N°2 1st Bn",,,,,,,,,42,35,51,30,1
+596,"P02IR2B","P02IR",594,,"1st Pomeranian Rgt N°2 2nd Bn",,,,,,,,,42,35,51,30,1
+597,"P02IRFB","P02IR",594,,"1st Pomeranian Rgt N°2 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+598,"P25IR","P5Br",73,,"25th Inf Rgt",3,,,,,,,,42,34,51,30,1
+600,"P25IR2B","P25IR",598,,"25th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+601,"P25IRFB","P25IR",598,,"25th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+602,"P5WLIR","P5Br",73,,"5th Wesphalian Landwehr Rgt",3,,,,,,,,42,34,51,30,1
+603,"P5WLIR1B","P5WLIR",602,,"5th Wesphalian Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+604,"P5WLIR2B","P5WLIR",602,,"5th Wesphalian Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+605,"P5WLIR3B","P5WLIR",602,,"5th Wesphalian Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+606,"P5JgCie","P5Br",73,,"Jaegers Cie",,,,,,,,,42,36,51,30,1
+607,"P09IR","P6Br",74,,"Colberg Rgt N°9",3,,,,,,,,42,34,51,30,1
+608,"P09IR1B","P09IR",607,,"Colberg Rgt N°9 1st Bn",,,,,,,,,42,35,51,30,1
+609,"P09IR2B","P09IR",607,,"Colberg Rgt N°9 2nd Bn",,,,,,,,,42,35,51,30,1
+611,"P26IR","P6Br",74,,"26th Inf Rgt",3,,,,,,,,42,34,51,30,1
+612,"P26IR1B","P26IR",611,,"26th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+613,"P26IR2B","P26IR",611,,"26th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+614,"P26IRFB","P26IR",611,,"26th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+615,"P1ELIR","P6Br",74,,"1st Elbe Landwehr Rgt",3,,,,,,,,42,34,51,30,1
+616,"P1ELIR1B","P1ELIR",615,,"1st Elbe Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+617,"P1ELIR2B","P1ELIR",615,,"1st Elbe Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+618,"P1ELIR3B","P1ELIR",615,,"1st Elbe Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+619,"P14IRFB","P14IR",318,,"14th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+620,"P22IR","P7Br",75,,"22th Inf Rgt",3,,,,,,,,42,34,51,30,1
+621,"P22IR1B","P22IR",620,,"22th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+622,"P22IR2B","P22IR",620,,"22th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+623,"P22IRFB","P22IR",620,,"22th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+624,"P2ELIR","P7Br",75,,"2nd Elbe Landwehr Rgt",3,,,,,,,,42,34,51,30,1
+625,"P2ELIR1B","P2ELIR",624,,"2nd Elbe Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+626,"P2ELIR2B","P2ELIR",624,,"2nd Elbe Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+627,"P2ELIR3B","P2ELIR",624,,"2nd Elbe Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+628,"P21IR","P8Br",76,,"21st Inf Rgt",3,,,,,,,,42,34,51,30,1
+629,"P21IR1B","P21IR",628,,"21st Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+630,"P21IR2B","P21IR",628,,"21st Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+631,"P21IRFB","P21IR",628,,"21st Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+632,"P23IR","P8Br",76,,"23th Inf Rgt",3,,,,,,,,42,34,51,30,1
+633,"P23IR1B","P23IR",632,,"23th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+634,"P23IR2B","P23IR",632,,"23th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+635,"P23IRFB","P23IR",632,,"23th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+636,"P3ELIR","P8Br",76,,"3nd Elbe Landwehr Rgt",3,,,,,,,,42,34,51,30,1
+637,"P3ELIR1B","P3ELIR",636,,"3nd Elbe Landwehr Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+638,"P3ELIR2B","P3ELIR",636,,"3nd Elbe Landwehr Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+639,"P3ELIR3B","P3ELIR",636,,"3nd Elbe Landwehr Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+640,"P08IR","P9Br",77,,"Leib Inf Rgt N° 8",3,,,,,,,,42,34,51,30,1
+641,"P08IR1B","P08IR",640,,"Leib Inf Rgt N° 8 1st Bn",,,,,,,,,42,35,51,30,1
+642,"P08IR2B","P08IR",640,,"Leib Inf Rgt N° 8 2nd Bn",,,,,,,,,42,35,51,30,1
+643,"P08IRFB","P08IR",640,,"Leib Inf Rgt N° 8 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+644,"P30IR","P9Br",77,,"30th Inf Rgt",3,,,,,,,,42,34,51,30,1
+645,"P30IR1B","P30IR",644,,"30th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+646,"P30IR2B","P30IR",644,,"30th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+647,"P30IRFB","P30IR",644,,"30th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+648,"P1KLIR","P9Br",77,,"1st Kurmärk Landwher Rgt",3,,,,,,,,42,34,51,30,1
+649,"P1KLIR1B","P1KLIR",648,,"1st Kurmärk Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+650,"P1KLIR2B","P1KLIR",648,,"1st Kurmärk Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+651,"P1KLIR3B","P1KLIR",648,,"1st Kurmärk Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+652,"P20IR","P10Br",78,91,"20th Inf Rgt",,,,,,,,,42,34,51,30,1
+653,"P20IR1B","P20IR",652,91,"20th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+654,"P20IR2B","P20IR",652,91,"20th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+655,"P20IRFB","P20IR",652,91,"20th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+656,"P27IR","P10Br",78,,"27th Inf Rgt",3,,,,,,,,42,34,51,30,1
+657,"P27IR1B","P27IR",656,,"27th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+658,"P27IR2B","P27IR",656,,"27th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+659,"P27IRFB","P27IR",656,,"27th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+660,"P2KLIR","P10Br",78,,"2nd Kurmärk Landwher Rgt",3,,,,,,,,42,34,51,30,1
+661,"P2KLIR1B","P2KLIR",660,,"2nd Kurmärk Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+662,"P2KLIR2B","P2KLIR",660,,"2nd Kurmärk Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+663,"P2KLIR3B","P2KLIR",660,,"2nd Kurmärk Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+664,"P32IR","P11Br",79,,"32th Inf Rgt",,,,,,,,,42,34,51,30,1
+665,"P32IR1B","P32IR",664,,"32th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+666,"P32IR2B","P32IR",664,,"32th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+667,"P32IRFB","P32IR",664,,"32th Inf Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+668,"P3KLIR","P11Br",79,,"3rd Kurmärk Landwher Rgt",3,,,,,,,,42,34,51,30,1
+669,"P3KLIR1B","P3KLIR",668,,"3rd Kurmärk Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+670,"P3KLIR2B","P3KLIR",668,,"3rd Kurmärk Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+671,"P3KLIR3B","P3KLIR",668,,"3rd Kurmärk Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+672,"P4KLIR","P11Br",79,,"4th Kurmärk Landwher Rgt",3,,,,,,,,42,34,51,30,1
+673,"P4KLIR1B","P4KLIR",672,,"4th Kurmärk Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+674,"P4KLIR2B","P4KLIR",672,,"4th Kurmärk Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+675,"P4KLIR3B","P4KLIR",672,,"4th Kurmärk Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+677,"P31IR1B","P31IR",676,,"31st Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+678,"P31IR2B","P31IR",676,,"31st Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+679,"P31IRFB","P31IR",676,,"31st Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+680,"P5KLIR","P12Br",80,,"5th Kurmärk Landwher Rgt",3,,,,,,,,42,34,51,30,1
+681,"P5KLIR1B","P5KLIR",680,,"5th Kurmärk Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+682,"P5KLIR2B","P5KLIR",680,,"5th Kurmärk Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+683,"P5KLIR3B","P5KLIR",680,,"5th Kurmärk Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+684,"P6KLIR","P12Br",80,,"6th Kurmärk Landwher Rgt",3,,,,,,,,42,34,51,30,1
+685,"P6KLIR1B","P6KLIR",684,,"6th Kurmärk Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+686,"P6KLIR2B","P6KLIR",684,,"6th Kurmärk Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+687,"P6KLIR3B","P6KLIR",684,,"6th Kurmärk Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+688,"P10IR","P13Br",81,,"1st Silesian Rgt N°10",3,,,,,,,,42,34,51,30,1
+689,"P10IR1B","P10IR",688,,"1st Silesian Rgt N°10 1st Bn",,,,,,,,,42,35,51,30,1
+690,"P10IR2B","P10IR",688,,"1st Silesian Rgt N°10 2nd Bn",,,,,,,,,42,35,51,30,1
+691,"P10IRFB","P10IR",688,,"1st Silesian Rgt N°10 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+692,"P2NLIR","P13Br",81,,"2nd Neumark Landwher Rgt",3,,,,,,,,42,34,51,30,1
+693,"P2NLIR1B","P2NLIR",692,,"2nd Neumark Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+694,"P2NLIR2B","P2NLIR",692,,"2nd Neumark Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+695,"P2NLIR3B","P2NLIR",692,,"2nd Neumark Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+696,"P3NLIR","P13Br",81,,"3rd Neumark Landwher Rgt",3,,,,,,,,42,34,51,30,1
+697,"P3NLIR1B","P3NLIR",696,,"3rd Neumark Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+698,"P3NLIR2B","P3NLIR",696,,"3rd Neumark Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+699,"P3NLIR3B","P3NLIR",696,,"3rd Neumark Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+700,"P11IR","P14Br",82,,"2nd Silesian Rgt N°11",3,,,,,,,,42,34,51,30,1
+701,"P11IR1B","P11IR",700,,"2nd Silesian Rgt N°11 1st Bn",,,,,,,,,42,35,51,30,1
+702,"P11IR2B","P11IR",700,,"2nd Silesian Rgt N°11 2nd Bn",,,,,,,,,42,35,51,30,1
+703,"P11IRFB","P11IR",700,,"2nd Silesian Rgt N°11 Fusiliers Bn",,,,,,,,,42,35,51,30,1
+704,"P1PLIR","P14Br",82,,"1st Pomeranian  Landwher Rgt",3,,,,,,,,42,34,51,30,1
+705,"P1PLIR1B","P1PLIR",704,,"1st Pomeranian  Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+706,"P1PLIR2B","P1PLIR",704,,"1st Pomeranian  Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+707,"P1PLIR3B","P1PLIR",704,,"1st Pomeranian  Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+708,"P2PLIR","P14Br",82,,"2nd Pomeranian  Landwher Rgt",3,,,,,,,,42,34,51,30,1
+709,"P2PLIR1B","P2PLIR",708,,"2nd Pomeranian  Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+710,"P2PLIR2B","P2PLIR",708,,"2nd Pomeranian  Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+711,"P2PLIR3B","P2PLIR",708,,"2nd Pomeranian  Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+712,"P18IR","P15Br",83,,"18th Inf Rgt",3,,,,,,,,42,34,51,30,1
+713,"P18IR1B","P18IR",712,,"18th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+714,"P18IR2B","P18IR",712,,"18th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+715,"P18IRFB","P18IR",712,,"18th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+716,"P3SLIR","P15Br",83,,"3rd Silesian Landwher Rgt",3,,,,,,,,42,34,51,30,1
+717,"P3SLIR1B","P3SLIR",716,,"3rd Silesian Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+718,"P3SLIR2B","P3SLIR",716,,"3rd Silesian Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+719,"P3SLIR3B","P3SLIR",716,,"3rd Silesian Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+720,"P4SLIR","P15Br",83,,"4th Silesian Landwher Rgt",3,,,,,,,,42,34,51,30,1
+721,"P4SLIR1B","P4SLIR",720,,"4th Silesian Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+722,"P4SLIR2B","P4SLIR",720,,"4th Silesian Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+723,"P4SLIR3B","P4SLIR",720,,"4th Silesian Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+724,"P15IR","P16Br",84,,"15th Inf Rgt",3,,,,,,,,42,34,51,30,1
+725,"P15IR1B","P15IR",724,,"15th Inf Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+726,"P15IR2B","P15IR",724,,"15th Inf Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+727,"P15IRFB","P15IR",724,,"15th Inf Rgt Fusiliers Bn",,,,,,,,,42,35,51,30,1
+728,"P1SLIR","P16Br",84,,"1st Silesian Landwher Rgt",3,,,,,,,,42,34,51,30,1
+729,"P1SLIR1B","P1SLIR",728,,"1st Silesian Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+730,"P1SLIR2B","P1SLIR",728,,"1st Silesian Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+731,"P1SLIR3B","P1SLIR",728,,"1st Silesian Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+732,"P2SLIR","P16Br",84,,"2nd Silesian Landwher Rgt",3,,,,,,,,42,34,51,30,1
+733,"P2SLIR1B","P2SLIR",732,,"2nd Silesian Landwher Rgt 1st Bn",,,,,,,,,42,35,51,30,1
+734,"P2SLIR2B","P2SLIR",732,,"2nd Silesian Landwher Rgt 2nd Bn",,,,,,,,,42,35,51,30,1
+735,"P2SLIR3B","P2SLIR",732,,"2nd Silesian Landwher Rgt 3rd Bn",,,,,,,,,42,35,51,30,1
+736,"B1KCRLDra","B3CB",128,,"1st Rgt KGL Light Dragoons",,5,,,,26,528,554,43,34,47,2,1
+737,"N1DCRCar","NCDHB",123,,"Dutch Carabiniers Rgt n°1",,2,,,,24,422,446,43,34,52,7,1
+738,"N2BCRCar","NCDHB",123,,"Belgian Carabiniers Rgt n°2",,2,,,,22,377,399,43,34,52,7,1
+739,"N3DCRCar","NCDHB",123,,"Dutch Carabiniers Rgt n°3",,2,,,,21,371,392,43,34,52,7,1
+740,"N4DCRDra","NCD1LB",124,,"4th Dutch Light Dragons Rgt",,3,,,,30,617,647,43,34,52,7,1
+741,"N5BCRHus","NCD1LB",124,,"5th Belgian Hussards Rgt",,2,,,,19,420,439,43,34,52,7,1
+1024,"P2AR4FA","P2AR",211,,"Foot Art -12- N° 4",,,1,,,,,,44,38,51,26,1
+742,"N5BCRDra","NCD2LB",125,,"5th Belgian Light Dragons Rgt ",,2,,,,20,421,441,43,34,52,7,1
+743,"N6DCRHus","NCD2LB",125,,"6th Dutch Hussards Rgt",,3,,,,31,610,641,43,34,52,7,1
+744,"R2CRHus","RBCB",118,,"2nd Hussards Rgt",,4,,,,39,651,690,43,34,50,32,1
+745,"R2CRUhl","RBCB",118,,"2nd Sq. Uhlans(Black Lanciers)",,1,,,,17,215,232,43,34,50,32,1
+746,"B1BLGCR","B1CB",126,,"1st Life-guards",,2,,,,15,213,228,43,34,47,2,1
+747,"B2BLGCR","B1CB",126,,"2nd Life-guards",,2,,,,16,215,231,43,34,47,2,1
+748,"BBHGCR","B1CB",126,,"RL Rgt of Horse-guards (the Blues)",,2,,,,21,216,237,43,34,47,2,1
+749,"BBCRDra","B1CB",126,,"1st (King's) Rgt Dragoon-guards",,4,,,,29,501,530,43,34,47,2,1
+750,"B1BCRDra","B2CB",127,,"1st (Royal) Rgt of Dragoons",,3,,,,25,369,394,43,34,47,2,1
+751,"B2BCRDra","B2CB",127,,"2nd (R1 North Brit) Dragoons (Scots Greys)",,3,,,,28,363,391,43,34,47,2,1
+752,"B6BCRDra","B2CB",127,,"6th (Inniskillings) Dragoons",,3,,,,26,370,396,43,34,47,2,1
+753,"B2KCRLDra","B3CB",128,,"2nd Rgt KGL Light Dragoons",,4,,,,22,468,490,43,34,47,2,1
+754,"B23BCRLDra","B3CB",128,,"23th Rgt British Light Dragoons",,3,,,,28,359,387,43,34,47,2,1
+755,"B11BCRLDra","B4CB",129,,"11th Rgt Light Dragoons",,3,,,,27,363,390,43,34,47,2,1
+756,"B12BCRLDra","B4CB",129,,"12th (Prince of Wales) Rgt Light Dragoons",,3,,,,19,369,388,43,34,47,2,1
+757,"B16BCRLDra","B4CB",129,,"16th (the Queen's) Rgt Ligth Dragoons",,3,,,,30,363,393,43,34,47,2,1
+758,"BB2KCRHus","B5CB",130,,"2nd KGL Rgt of Hussars",,5,,,,35,630,665,43,34,47,2,1
+759,"B7BCRHus","B5CB",130,,"7th (Queen's Own) Rgt of Hussars",,3,,,,26,354,380,43,34,47,2,1
+760,"B15BCRHus","B5CB",130,,"15th (King's) Rgt of Hussars",,3,,,,26,366,392,43,34,47,2,1
+761,"B1KCRHus","B6CB",131,,"1st KGL Rgt of Hussars",,5,,,,27,553,580,43,34,47,2,1
+762,"B10BCRHus","B6CB",131,,"10th (Prince of Wales's Own) Royal Rgt of Hussars",,3,,,,24,366,390,43,34,47,2,1
+763,"B18BCRHus","B6CB",131,,"18th (King's Irish) Rgt of Hussars",,3,,,,27,369,396,43,34,47,2,1
+764,"B3KCRHus","B7CB",132,,"3rd KGL Rgt of Hussars",,5,,,,56,853,909,43,34,47,2,1
+765,"B13BCRLDra","B7CB",132,,"13th Rgt of Light Dragoons",,3,,,,29,361,390,43,34,47,2,1
+766,"HlunebHCRHus","H1CB",133,,"Lunebourg Rgt of Hussars",,4,,,,29,567,596,43,34,49,22,1
+767,"HbrverHCRHus","H1CB",133,,"Brême et Verden Rgt of Hussars",,4,,,,27,562,589,43,34,49,22,1
+768,"HcumbHCRHus","H1CB",133,,"Volunteers Hussards Duke of Cumberland",,4,,,,22,468,490,43,34,49,22,1
+769,"GRCChC","GIDCLgr",169,,"Régiment de Chasseurs à Cheval",,7,,,,59,1138,1197,43,34,48,17,1
+770,"GRCLan","GIDCLgr",169,,"Régiment de Chevaux-légers Lanciers",0,6,0,0,,46,808,854,43,34,48,17,1
+771,"GRCLanR","GRCLan",770,,"Lanciers Rouges",,4,,,,28,552,580,43,34,48,17,1
+772,"GRCLanB","GRCLan",770,,"Lanciers Polonais (bleus)",,2,,,,18,256,274,43,34,48,17,1
+773,"GpelMam","GIDCLgr",169,,"Peloton de Mamelouks",,,,,,1,25,26,43,37,48,17,1
+774,"GRCGrC","GIDCLrd",170,,"Régiment de Grenadiers à Cheval",,6,,,,44,752,796,43,34,48,17,1
+775,"GSQGen","GIDCLrd",170,,"Escadron de Gendarmerie 1ere Cie d'élite",,1,,,,4,102,106,43,37,48,17,1
+776,"GRCDra","GIDCLrd",170,,"Régiment des Dragons de l'Impératrice",,7,,,,51,765,816,43,34,48,17,1
+777,"F07RCHus","F1DC1B",134,,"7eme Régiment de Hussards",,3,,,,28,411,439,43,34,48,12,1
+778,"F03RCChC","F1DC1B",134,,"3eme Régiment de Chasseurs à cheval",,3,,,,29,336,365,43,34,48,12,1
+779,"F03RCLan","F1DC2B",135,,"3eme Régiment de Lanciers",,3,,,,27,379,406,43,34,48,12,1
+780,"F04RCLan","F1DC2B",135,,"4eme Régiment de Lanciers",,2,,,,22,274,296,43,34,48,12,1
+781,"F01RCChC","F2DC1B",136,,"1er Régiment de Chasseurs à cheval",,4,,,,40,445,485,43,34,48,12,1
+782,"F06RCChC","F2DC1B",136,,"6eme Régiment de Chasseurs à cheval",,4,,,,34,526,560,43,34,48,12,1
+783,"F05RCLan","F2DC2B",137,,"5eme Régiment de Lanciers",,3,,,,25,387,412,43,34,48,12,1
+784,"F06RCLan","F2DC2B",137,,"6eme Régiment de Lanciers",,4,,,,35,370,405,43,34,48,12,1
+785,"F04RCChC","F3DC1B",138,,"4eme Régiment de Chasseurs à cheval",,3,,,,31,306,337,43,34,48,12,1
+786,"F09RCChC","F3DC1B",138,,"9eme Régiment de Chasseurs à cheval",,3,,,,25,337,362,43,34,48,12,1
+787,"F12RCChC","F3DC2B",139,,"12eme Régiment de Chasseurs à cheval",,3,,,,29,289,318,43,34,48,12,1
+788,"F06RCHus","F7DC1B",140,,"6eme Régiment de Hussards",,3,,,,26,387,413,43,34,48,12,1
+789,"F08RCChC","F7DC1B",140,,"8eme Régiment de Chasseurs à cheval",,3,,,,30,371,401,43,34,48,12,1
+790,"F06RCDra","F7DC2B",141,,"6eme Régiment de Dragons",,4,,,,40,448,488,43,34,48,12,1
+791,"F16RCDra","F7DC2B",141,,"16eme Régiment de Dragons",,3,,,,28,298,326,43,34,48,12,1
+792,"F01RCHus","F4DC1B",142,,"1er Régiment de Hussards",,4,,,,36,489,525,43,34,48,12,1
+793,"F04RCHus","F4DC1B",142,,"4e Régiment de Hussards",,4,,,,29,346,375,43,34,48,12,1
+794,"F05RCHus","F4DC2B",143,,"5e Régiment de Hussards",,4,,,,29,399,428,43,34,48,12,1
+795,"F01RCLan","F5DC1B",144,,"1er Régiment de Lanciers",,4,,,,40,375,415,43,34,48,12,1
+796,"F02RCLan","F5DC1B",144,,"2e Régiment de Lanciers",,4,,,,41,379,420,43,34,48,12,1
+797,"F11RCChC","F5DC2B",145,,"11eme Régiment de Chasseurs à cheval",,4,,,,37,336,373,43,34,48,12,1
+798,"F05RCDra","F9DC1B",146,,"5eme Régiment de Dragons",,4,,,,41,465,506,43,34,48,12,1
+799,"F13RCDra","F9DC1B",146,,"13eme Régiment de Dragons",,4,,,,35,389,424,43,34,48,12,1
+800,"F15RCDra","F9DC2B",147,,"15eme Régiment de Dragons",,4,,,,34,381,415,43,34,48,12,1
+801,"F20RCDra","F9DC2B",147,,"20eme Régiment de Dragons",,4,,,,31,316,347,43,34,48,12,1
+802,"F04RCDra","F10DC1B",148,,"4eme Régiment de Dragons",,4,,,,35,330,365,43,34,48,12,1
+803,"F12RCDra","F10DC1B",148,,"12eme Régiment de Dragons",,4,,,,30,310,340,43,34,48,12,1
+804,"F14RCDra","F10DC2B",149,,"14eme Régiment de Dragons",,4,,,,34,339,373,43,34,48,12,1
+805,"F17RCDra","F10DC2B",149,,"17eme Régiment de Dragons",,3,,,,39,287,326,43,34,48,12,1
+1025,"P2AR8FA","P2AR",211,,"Foot Art -12- N° 8",,,1,,,,,,44,38,51,26,1
+806,"F02RCDra","F11DC1B",150,,"2eme Régiment de Dragons",,4,,,,40,543,583,43,34,48,12,1
+807,"F07RCDra","F11DC1B",150,,"7eme Régiment de Dragons",,4,,,,41,475,516,43,34,48,12,1
+1017,"P1AR9PC","P1AR",210,,"Park column n° 9",,,,,,,,,44,40,51,26,1
+808,"F08RCCui","F11DC2B",151,,"8eme Régiment de Cuirassiers",,3,,,,31,421,452,43,34,48,12,1
+809,"F11RCCui","F11DC2B",151,,"11eme Régiment de Cuirassiers",,2,,,,21,304,325,43,34,48,12,1
+810,"F01RCCar","F12DC1B",152,,"1er Régiment de Carabiniers",,3,,,,30,403,433,43,34,48,12,1
+811,"F02RCCar","F12DC1B",152,,"2eme Régiment de Carabiniers",,3,,,,29,380,409,43,34,48,12,1
+812,"F02RCCui","F12DC2B",153,,"2eme Régiment de Cuirassiers",,2,,,,21,292,313,43,34,48,12,1
+813,"F03RCCui","F12DC2B",153,,"3eme Régiment de Cuirassiers",,4,,,,37,427,464,43,34,48,12,1
+814,"F01RCCui","F13DC1B",154,,"1er Régiment de Cuirassiers",,4,,,,41,411,452,43,34,48,12,1
+815,"F04RCCui","F13DC1B",154,,"4eme Régiment de Cuirassiers",,3,,,,28,278,306,43,34,48,12,1
+816,"F07RCCui","F13DC2B",155,,"7eme Régiment de Cuirassiers",,2,,,,21,151,172,43,34,48,12,1
+817,"F12RCCui","F13DC2B",155,,"12eme Régiment de Cuirassiers",,2,,,,22,226,248,43,34,48,12,1
+818,"F05DCCui","F14DC1B",156,,"5eme Régiment de Cuirassiers",,3,,,,34,380,414,43,34,48,12,1
+819,"F10DCCui","F14DC1B",156,,"10eme Régiment de Cuirassiers",,3,,,,26,309,335,43,34,48,12,1
+820,"F06DCCui","F14DC2B",157,,"6eme Régiment de Cuirassiers",,4,,,,37,474,511,43,34,48,12,1
+821,"F09DCCui","F14DC2B",157,,"9eme Régiment de Cuirassiers",,3,,,,32,327,359,43,34,48,12,1
+822,"P5CRDra","P1CR1B",158,,"Brandebourg Rgt of Dragoons n°5",,4,,,,,,,43,34,51,27,1
+823,"P2CRDra","P1CR1B",158,,"1st Occ. Prussia Rgt of Dragoons n°2",,4,,,,,,,43,34,51,27,1
+824,"P4CRHus","P1Br",69,93,"1st Silesian Hussars Rgt N° 4",,4,,,,,,,43,34,51,27,1
+825,"P3CRUhl","P1CR1B",158,,"Brandebourg Rgt of Uhlans n°3",,4,,,,,,,43,34,51,27,1
+826,"P1KLCR","P1CR2B",159,,"1st Kurmärk Landwher Rgt",,4,,,,,,,43,34,51,27,1
+827,"P2KLCR","P1CR2B",159,,"2nd Kurmärk Landwher Rgt",,4,,,,,,,43,34,51,27,1
+828,"P1WLCR","P2Br",70,93,"1st Wesphalian Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+829,"P6CRUhl","P1CR2B",159,,"6th Rgt of Uhlans",,4,,,,,,,43,34,51,27,1
+830,"P11CRHus1","P5Br",73,,"11th Hussars Rgt 1&2 Sq.",,,,,,,,,43,37,51,27,1
+831,"P11CRHus2","P6Br",74,,"11th Hussars Rgt 3&4 Sq.",,,,,,,,,43,37,51,27,1
+832,"PELCR1","P7Br",75,,"Elbe Landwehr Cavalry 1&3 Sq.",,,,,,,,,43,37,51,27,1
+833,"PELCR2","P8Br",76,,"Elbe Landwehr Cavalry 2&4 Sq.",3,,,,,,,,43,37,51,27,1
+834,"P1CRDra","P2CR1B",160,,"Queen's Dragoons Rgt N°1",,4,,,,,,,43,34,51,27,1
+835,"P6CRDra","P2CR1B",160,,"Neumark Dragoons Rgt N°6",,4,,,,,,,43,34,51,27,1
+836,"P2CRUhl","P2CR1B",160,,"Silesian Uhlans Rgt N°2",,4,,,,,,,43,34,51,27,1
+837,"P2CR6HA","P2CR1B",160,,"Horse Art N° 6",,,,,,,,,43,38,51,27,1
+838,"P3CRHus","P2CR2B",161,,"Brandeburg Hussars Rgt N°3",,4,,,,,,,43,34,51,27,1
+839,"P5CRHus","P2CR2B",161,,"Brandeburg Hussars Rgt N°5",,4,,,,,,,43,34,51,27,1
+840,"PELCR","P2CR2B",161,93,"Elbe Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+841,"P4KLCR","P2CR3B",162,,"4th Kurmärk Landwher Rgt",,4,,,,,,,43,34,51,27,1
+842,"P5KLCR","P2CR3B",162,,"5th Kurmärk Landwher Rgt",,4,,,,,,,43,34,51,27,1
+843,"P11CRHus","P2CR3B",162,93,"11th Hussars Rgt",,4,,,,,,,43,34,51,27,1
+844,"P3KLCR1","P9Br",77,,"3th Kurmärk Landwher Cavalery 1&2 Sq",,,,,,,,,43,34,51,27,1
+845,"P3KLCR2","P10Br",78,,"3th Kurmärk Landwher Cavalery 3&4 Sq",,,,,,,,,43,34,51,27,1
+846,"P6KLCR1","P11Br",79,,"6th Kurmärk Landwher Cavalery 1&2 Sq",,,,,,,,,43,34,51,27,1
+847,"P6KLCR2","P12Br",80,,"6th Kurmärk Landwher Cavalery 3&4 Sq",,,,,,,,,43,34,51,27,1
+848,"P12CRHus","P3CR1B",163,91,"12th Hussards Rgt",,,,,,,,,43,34,51,27,1
+849,"P7CRUhl","P3CR1B",163,,"7th Uhlans Rgt",,4,,,,,,,43,34,51,27,1
+850,"P8CRUhl","P3CR1B",163,,"8th Uhlans Rgt",,4,,,,,,,43,34,51,27,1
+851,"P3KLCR","P3CR1B",163,93,"3th Kurmärk Landwher Cavalery",,4,,,,,,,43,34,51,27,1
+852,"P6KLCR","P3CR1B",163,93,"6th Kurmärk Landwher Cavalery",,4,,,,,,,43,34,51,27,1
+853,"P7CRDra","P3CR2B",164,,"7th Dragoons Rgt",,3,,,,,,,43,34,51,27,1
+854,"P9CRHus","P3CR2B",164,,"9th Hussars Rgt",,3,,,,,,,43,34,51,27,1
+855,"P5CRUhl","P3CR2B",164,,"5th Uhlans Rgt",,3,,,,,,,43,34,51,27,1
+856,"P2SLCR1","P13Br",81,,"2nd Silesian Landwehr Cavalry 1&2 Sq.",,,,,,,,,43,34,51,27,1
+857,"P2SLCR2","P14Br",82,,"2nd Silesian Landwehr Cavalry 3&4 Sq.",,,,,,,,,43,34,51,27,1
+858,"P3SLCR1","P15Br",83,,"3nd Silesian Landwehr Cavalry 1&2 Sq.",,,,,,,,,43,34,51,27,1
+859,"P3SLCR2","P16Br",84,,"3nd Silesian Landwehr Cavalry 3&4 Sq.",,,,,,,,,43,34,51,27,1
+860,"P6CRHus","P4CR1B",165,,"2th Silesian Hussars Regiment N°6",,4,,,,,,,43,34,51,27,1
+861,"P10CRHus","P4CR1B",165,,"10th Hussars Regiment",,4,,,,,,,43,34,51,27,1
+862,"P01CRUhl","P4CR1B",165,,"Occ. Prussia Rgt of Uhlans n°1",,4,,,,,,,43,34,51,27,1
+863,"P2SLCR","P4CR1B",165,93,"2nd Silesian Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+864,"P3SLCR","P4CR1B",165,93,"3nd Silesian Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+865,"P8CRDra","P4CR2B",166,91,"8th Dragoons Regiment",,,,,,,,,43,34,51,27,1
+866,"P8CRHus","P4CR2B",166,,"8th Hussars Regiment",,4,,,,,,,43,34,51,27,1
+867,"P1NLCR","P4CR3B",167,,"1st Neumark Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+868,"P2NLCR","P4CR3B",167,,"2nd Neumark Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+869,"P1PLCR","P4CR3B",167,,"1st Pomeranian Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+870,"P2PLCR","P4CR3B",167,,"2nd Pomeranian Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+871,"P1SLCR","P4CR3B",167,,"1st Silesian Landwehr Cavalry",,4,,,,,,,43,34,51,27,1
+872,"HHQStaff","HHQKGL",1092,,"Royal Staff Corps 4 cies",,,,4,,,,,44,36,49,21,1
+873,"HHQWag","HHQKGL",1092,,"Royal Wagon Train",,,,,,,,,44,36,49,21,1
+874,"B1IDFA","B1IDArt",183,,"British Foot Art-9-",,,1,,,5,350,355,44,38,47,1,1
+875,"B1IDHA","B1IDArt",183,,"KGL Horse Art-9-",,,1,,,9,163,172,44,38,47,1,1
+1018,"P1AR10PC","P1AR",210,,"Park column n° 10",,,,,,,,,44,40,51,26,1
+1026,"P2AR37FA","P2AR",211,,"Foot Art -6- N° 37",,,1,,,,,,44,38,51,26,1
+876,"B3IDFA","B3IDArt",184,,"British Foot Art-9-",,,1,,,5,345,350,44,38,47,1,1
+877,"B3IDHA","B3IDArt",184,,"KGL Horse Art-9-",,,1,,,6,219,225,44,38,47,1,1
+878,"N2ID1BDHA","N2ID1B",10,,"Dutch Horse Art",,,1,,,7,100,107,44,38,52,6,1
+879,"N2ID1BDTR","N2ID1B",10,,"Train",,,,,,2,110,112,44,36,52,6,1
+880,"N2ID2BDFA","N28OLN",348,,"Dutch Foot Art",,,1,,,3,116,119,44,38,52,6,1
+881,"N2ID2BDTR","N28OLN",348,,"Train",,,,,,2,137,139,44,36,52,6,1
+882,"N3ID1BBHA","N3ID1B",12,,"Belgian Horse Art",,,1,,,3,120,123,44,38,52,6,1
+883,"N3ID1BBTR","N3ID1B",12,,"Train",,,,,,3,84,87,44,36,52,6,1
+884,"N3ID2BDFA","N3ID2B",13,,"Dutch Foot Art",,,1,,,4,117,121,44,38,52,6,1
+885,"NCDDHA","NCDArt",185,,"Dutch Horse Art",0,0,1,0,,8,233,241,44,38,52,6,1
+886,"NCDDHA1","NCDDHA",885,,"Dutch Horse Art ½",,,1,,,5,127,132,44,38,52,6,1
+887,"NCDDHA2","NCDDHA",885,,"Dutch Horse Art ½",,,1,,,3,106,109,44,38,52,6,1
+888,"NCDDTR","NCDArt",185,,"Train",,,,,,,,,44,36,52,6,1
+889,"B2IDBFA","B2IDArt",186,,"British Foot Art-9-",,,1,,,5,370,375,44,38,47,1,1
+890,"B2IDKHA","B2IDArt",186,,"KGL Horse Art-9-",,,1,,,9,161,170,44,38,47,1,1
+891,"B4IDBFA","B4IDART",187,,"British Foot Art-9-",,,1,,,5,345,350,44,38,47,1,1
+892,"H4IDHFA","B4IDART",187,,"1st Hanovrian Foot Art-9-",,,1,,,5,227,232,44,38,49,21,1
+893,"BRESBFA1","BRESART",188,,"British Foot Art-18-",,,1,,,5,375,380,44,38,47,1,1
+894,"BRESBFA2","BRESART",188,,"British Foot Art-18-",,,1,,,5,375,380,44,38,47,1,1
+895,"BRESBFA3","BRESART",188,,"British Foot Art-18-",,,1,,,5,375,380,44,38,47,1,1
+896,"BRESBHA1","BRESART",188,,"British Horse Art-9-",,,1,,,6,174,180,44,38,47,1,1
+897,"BRESBHA2","BRESART",188,,"British Horse Art-9-",,,1,,,4,166,170,44,38,47,1,1
+898,"NRESDFA1","NDRESART",189,,"Dutch Foot Art-12-",,,1,,,13,200,213,44,38,52,6,1
+899,"NRESTR1","NDRESART",189,,"Train",,,,,,8,323,331,44,36,52,6,1
+900,"NRESDHA","NDRESART",189,,"Dutch Horse Art",,,,,,2,8,10,44,38,52,6,1
+901,"NRESDFA2","NDRESART",189,,"Dutch Foot Art-12-",,,,,,,,,44,38,52,6,1
+902,"NRESDFA3","NDRESART",189,,"Dutch Foot Art 2nd Bn 3rd Cie",,,,,,6,120,126,44,36,52,6,1
+903,"NRESTR2","NDRESART",189,,"Train",,,,,,2,74,76,44,36,52,6,1
+904,"NRESDFA4","NDRESART",189,,"Dutch Foot Art",,,1,,,4,110,114,44,38,52,6,1
+905,"BIBDFA","BIB",91,,"Dutch Foot Art-6- N°3",,,1,,,6,114,120,44,38,47,1,1
+906,"BIBTR","BIB",91,,"Train",,,,,,1,109,110,44,36,47,1,1
+907,"N1IDDFA","N1IDART",192,,"Dutch Foot Art-6- N°3",,,1,,,5,114,119,44,38,52,6,1
+908,"N1IDTR","N1IDART",192,,"Train",,,,,,2,104,106,44,36,52,6,1
+909,"N1IDRP","N1IDART",192,,"Reserve Park",,,,,,3,119,122,44,36,52,6,1
+910,"B5IDBFA","B5IDArt",193,,"British Foot Art-9-",,,1,,,5,350,355,44,38,47,1,1
+911,"H5IDHFA","B5IDArt",193,,"Hanovrian 2nd Foot Art-9-",,,1,,,6,227,233,44,38,49,21,1
+912,"B6IDBFA1","B6IDArt",194,,"British Foot Art-9-",,,1,,,5,350,355,44,38,47,1,1
+913,"B6IDBFA2","B6IDArt",194,,"British Foot Art-9-",,,1,,,5,345,350,44,38,47,1,1
+914,"RBCFA","RBCART",195,,"Brunswick Foot Art",,,1,,,4,212,216,44,38,50,31,1
+915,"RBCHA","RBCART",195,,"Brunswick Horse Art",,,1,,,6,288,294,44,38,50,31,1
+916,"BCDBHA1","BCDArt",196,,"British Horse Art-5*6pd+1ob-",,,1,,,4,156,160,44,38,47,1,1
+917,"BCDBHA2","BCDArt",196,,"British Horse Art-5*6pd+1ob-",,,1,,,6,164,170,44,38,47,1,1
+918,"BCDBHA3","BCDArt",196,,"British Horse Art-5*6pd+fus-",,,1,,,6,164,170,44,38,47,1,1
+919,"BCDBHA4","BCDArt",196,,"British Horse Art-5*9pd+1ob-",,,1,,,6,184,190,44,38,47,1,1
+920,"BCDBHA5","BCDArt",196,,"British Horse Art-5*9pd+1ob-",,,1,,,5,175,180,44,38,47,1,1
+921,"BCDBHA6","BCDArt",196,,"British Horse Art-5*6pd+1ob-",,,1,,,5,175,180,44,38,47,1,1
+922,"BGARBFA","BGARNISONS",2,,"British Artilery Cie",,,,,,,,,44,36,47,1,1
+923,"BGARKFA1","BGARNISONS",2,,"KGL Artilery Cie",,,,,,,,,44,36,47,1,1
+924,"BGARKFA2","BGARNISONS",2,,"KGL Artilery Cie",,,,,,,,,44,36,47,1,1
+925,"BGARPARK","BGARNISONS",2,,"Park",,,,,,,,,44,40,47,1,1
+926,"GRAVGAP","GIAVG",198,,"Régiment d'artillerie à pied",,,9,,,28,702,730,44,34,48,16,1
+927,"GRAVGAC","GIAVG",198,,"Régiment d'artillerie à cheval",,,4,,,19,380,399,44,34,48,16,1
+928,"GSQAVGTr","GIAVG",198,,"Escadron de train",,,,,,20,904,924,44,37,48,16,1
+929,"GRAAXAP","GIAAX",199,,"Régiment d'artillerie à pied",,,3,,,15,414,429,44,34,48,16,1
+930,"GRAAXAC","GIAAX",199,,"Régiment d'artillerie à cheval",,,1,,,3,70,73,44,34,48,16,1
+931,"GSQAAXTr","GIAAX",199,,"Escadron de train",,,,,,12,601,613,44,37,48,16,1
+932,"F1DIAP","F1DI",101,,"6e Rgt ART 20eCie",,,1,,,4,81,85,44,38,48,11,1
+933,"F1DITR","F1DI",101,,"1er ESC TR 5eCie",,,,,,3,103,106,44,37,48,11,1
+934,"F2DIAP","F2DI",102,,"6e Rgt ART 10eCie",,,1,,,3,86,89,44,38,48,11,1
+935,"F2DITR","F2DI",102,,"1er ESC TR 9eCie",,,,,,1,95,96,44,37,48,11,1
+936,"F3DIAP","F3DI",103,,"6e Rgt ART 19eCie",,,1,,,4,81,85,44,38,48,11,1
+937,"F3DITR","F3DI",103,,"1er ESC TR 2eCie",,,,,,2,92,94,44,37,48,11,1
+938,"F4DIAP","F4DI",104,,"6e Rgt ART 9eCie",,,1,,,3,81,84,44,38,48,11,1
+939,"F4DITR","F4DI",104,,"1er ESC TR 3eCie",,,,,,1,92,93,44,37,48,11,1
+940,"F1DCAC","F1DC",171,,"1er Rgt ART CH 2eCie",,,1,,,3,70,73,44,38,48,11,1
+941,"F1DCTR","F1DC",171,,"1er ESC TR 3eCie",,,,,,2,83,85,44,37,48,11,1
+942,"F1AAP","F1AArt",201,,"6e Rgt ART AP 11eCie",,,1,,,3,84,87,44,38,48,11,1
+943,"F1ATR","F1AArt",201,,"1er ESC TR 6eCie",,,,,,1,118,119,44,37,48,11,1
+944,"F5DIAP","F5DI",105,,"6e Rgt ART AP 18eCie",,,1,,,4,86,90,44,38,48,11,1
+945,"F5DITR","F5DI",105,,"1er ESC TR 3eCie",,,,,,2,99,101,44,37,48,11,1
+946,"F6DIAP","F6DI",106,,"2e Rgt ART AP 2eCie",,,1,,,4,92,96,44,38,48,11,1
+947,"F7DIAP","F7DI",107,,"2e Rgt ART AP 3eCie",,,1,,,3,74,77,44,38,48,11,1
+948,"F7DI1TR","F7DI",107,,"1er ESC TR 1eCie",,,,,,1,58,59,44,37,48,11,1
+949,"F7DI5TR","F7DI",107,,"5e ESC TR 2eCie",,,,,,1,43,44,44,37,48,11,1
+950,"F9DIAP","F9DI",108,,"6e Rgt ART AP 1eCie",,,1,,,4,84,88,44,38,48,11,1
+951,"F9DITR","F9DI",108,,"1er ESC TR 2eCie",,,,,,2,97,99,44,37,48,11,1
+952,"F2DCAC","F2DC",172,,"4e Rgt ART à cheval 2eCie",,,1,,,4,76,80,44,38,48,11,1
+953,"F2DCTR","F2DC",172,,"5e ESC TR 2eCie",,,,,,2,81,83,44,37,48,11,1
+954,"F2AAP","F2AArt",203,,"2e Rgt ART AP 7eCie",,,1,,,4,96,100,44,38,48,11,1
+955,"F2ATR","F2AArt",203,,"1er ESC TR 7eCie",,,,,,1,79,80,44,37,48,11,1
+956,"F8DIAP","F8DI",109,,"6e Rgt ART AP 7eCie",,,1,,,4,83,87,44,38,48,11,1
+957,"F8DI1TR","F8DI",109,,"1er ESC TR 1eCie",,,,,,,12,,44,37,48,11,1
+958,"F8DI2TR","F8DI",109,,"ESC.TR.",,,,,,,11,,44,37,48,11,1
+959,"F8DI3TR","F8DI",109,,"ESC.TR.",,,,,,2,85,87,44,37,48,11,1
+960,"F02RESu","F10DI2B",54,,"2eme Régiment étrangers (Suisse)",1,,,,,,,,44,34,48,11,1
+961,"F10DIAP","F10DI",110,,"2e Rgt ART AP 18eCie",,,1,,,4,89,93,44,38,48,11,1
+962,"F10DITR","F10DI",110,,"5e ESC TR 4eCie",,,,,,2,92,94,44,37,48,11,1
+963,"F11DIAP","F11DI",111,,"2e Rgt ART AP 17eCie",,,1,,,4,96,100,44,38,48,11,1
+964,"F11DITR","F11DI",111,,"5e ESC TR 5eCie",,,,,,2,94,96,44,37,48,11,1
+965,"F03DCAC","F3DC",173,,"2e Rgt ART à CH 1eCie",,,1,,,3,74,77,44,38,48,11,1
+966,"F03DCTR","F3DC",173,,"5e ESC TR 6eCie",,,,,,3,100,103,44,37,48,11,1
+967,"F3AAP","F3AArt",205,,"2e Rgt ART AP 1eCie",,,1,,,4,95,99,44,38,48,11,1
+968,"F3ATR","F3AArt",205,,"5e ESC TR 6eCie",,,,,,2,104,106,44,37,48,11,1
+969,"F12DIAP","F12DI",112,,"5e Rgt ART AP 1eCie",,,1,,,3,98,101,44,38,48,11,1
+970,"F12DITR","F12DI",112,,"2e ESC TR 6eCie",,,,,,2,97,99,44,37,48,11,1
+971,"F13DIAP","F13DI",113,,"5e Rgt ART AP 1eCie",,,1,,,5,97,102,44,38,48,11,1
+972,"F13DITR","F13DI",113,,"2e ESC TR 2eCie",,,,,,3,92,95,44,37,48,11,1
+973,"F14DIAP","F14DI",114,,"5e Rgt ART AP 3eCie",,,1,,,5,97,102,44,38,48,11,1
+974,"F14DITR","F14DI",114,,"2e ESC TR 5eCie",,,,,,3,95,98,44,37,48,11,1
+975,"F7DCAC","F7DC",174,,"3e Rgt ART à CH 3eCie",,,1,,,4,80,84,44,38,48,11,1
+976,"F7DCTR","F7DC",174,,"2e ESC TR 2eCie",,,,,,2,76,78,44,37,48,11,1
+977,"F4AAP","F4AArt",207,,"5e Rgt ART AP1 1eCie",,,1,,,4,87,91,44,38,48,11,1
+978,"F4ATR","F4AArt",207,,"2e ESC TR 9eCie",,,,,,2,97,99,44,37,48,11,1
+979,"F19DIAP","F19DI",115,,"8e Rgt ART AP 1eCie",,,1,,,3,83,86,44,38,48,11,1
+980,"F19DI1TR","F19DI",115,,"7e ESC TR",,,,,,3,53,56,44,37,48,11,1
+981,"F19DI2TR","F19DI",115,,"8e ESC TR 4eCie",,,,,,1,37,38,44,37,48,11,1
+982,"F20DIAP","F20DI",116,,"8e Rgt ART AP 2eCie",,,1,,,3,88,91,44,38,48,11,1
+983,"F20DITR","F20DI",116,,"8e ESC TR 3eCie",,,,,,2,102,104,44,37,48,11,1
+984,"F21DIAP","F21DI",117,,"8e Rgt ART AP 3eCie",,,1,,,3,91,94,44,36,48,11,1
+985,"F21DITR","F21DI",117,,"6e ESC TR 4eCie",,,,,,2,70,72,44,36,48,11,1
+986,"F6AAP","F6AArt",209,,"8e Rgt ART AP 4eCie",,,1,,,3,92,95,44,38,48,11,1
+987,"F6ATR","F6AArt",209,,"8e ESC TR 3e,4e,5eCies",,,,,,2,127,129,44,37,48,11,1
+988,"F4DCAC","F4DC",175,,"1er Rgt ART à CH 1eCie",,,1,,,2,70,72,44,38,48,11,1
+989,"F4DCTR","F4DC",175,,"1e ESC TR 3eCie",,,,,,1,84,85,44,37,48,11,1
+990,"F5DCAC","F5DC",176,,"1er Rgt ART à CH 3eCie",,,1,,,2,74,76,44,38,48,11,1
+991,"F5DCTR","F5DC",176,,"1e ESC TR 4eCie",,,,,,2,89,91,44,37,48,11,1
+992,"F9DCAC","F9DC",177,,"1er Rgt ART à CH 4eCie",,,1,,,4,55,59,44,38,48,11,1
+993,"F9DCTR","F9DC",177,,"1e ESC TR 6eCie",,,,,,1,59,60,44,37,48,11,1
+994,"F10DCAC","F10DC",178,,"1er Rgt ART à CH 4eCie",,,1,,,2,60,62,44,38,48,11,1
+995,"F10DCTR","F10DC",178,,"2e ESC TR 1eCie",,,,,,1,72,73,44,37,48,11,1
+996,"F11DCAC","F11DC",179,,"2e Rgt ART à CH 3eCie",,,1,,,3,75,78,44,38,48,11,1
+997,"F11DCTR","F11DC",179,,"2e ESC TR 3eCie",,,,,,2,81,83,44,37,48,11,1
+998,"F12DCAC","F12DC",180,,"2e Rgt ART à CH 2eCie",,,1,,,3,75,78,44,38,48,11,1
+999,"F12DCTR","F12DC",180,,"2e ESC TR 4eCie",,,,,,2,78,80,44,37,48,11,1
+1000,"F13DCAC","F13DC",181,,"1e Rgt ART à CH 5eCie",,,1,,,3,75,78,44,38,48,11,1
+1001,"F13DCTR","F13DC",181,,"1e ESC TR 8eCie",,,,,,2,79,81,44,37,48,11,1
+1002,"F14DCAC","F14DC",182,,"3e Rgt ART à CH 4eCie",,,1,,,3,70,73,44,38,48,11,1
+1003,"F14DCTR","F14DC",182,,"1e ESC TR 5eCie",,,,,,2,89,91,44,37,48,11,1
+1004,"P1BrFA","P1Br",69,,"Foot Art -6- N° 7",,,1,,,,,,44,38,51,26,1
+1005,"P1CR7HA","P1Br",69,,"Horse Art N° 7",,,1,,,,,,44,38,51,26,1
+1006,"P2BrFA","P2Br",70,,"Foot Art -6- N° 3",,,1,,,,,,44,38,51,26,1
+1007,"P3BrFA","P3Br",71,,"Foot Art -6- N° 8",,,1,,,,,,44,38,51,26,1
+1008,"P4BrFA","P4Br",72,,"Foot Art -6- N° 15",,,1,,,,,,44,38,51,26,1
+1009,"P1CR2HA","P1CR1B",158,,"Horse Art N° 2",,,,,,,,,44,38,51,26,1
+1010,"P1AR1FA","P1AR",210,,"Foot Art -6- N° 1",,,1,,,,,,44,38,51,26,1
+1011,"P1AR2FA","P1AR",210,,"Foot Art -6- N° 2",,,1,,,,,,44,38,51,26,1
+1012,"P1AR6FA","P1AR",210,,"Foot Art -6- N° 6",,,1,,,,,,44,38,51,26,1
+1013,"P1AR9FA","P1AR",210,,"Foot Art -6- N° 9",,,1,,,,,,44,38,51,26,1
+1014,"P1ARHow","P1AR",210,,"Howitzers",,,1,,,,,,44,38,51,26,1
+1015,"P1AR7HA","P1AR",210,,"Horse Art N° 10",,,1,,,,,,44,38,51,26,1
+1016,"P1AR8PC","P1AR",210,,"Park column n° 8",,,,,,,,,44,40,51,26,1
+1019,"P1AR11PC","P1AR",210,,"Park column n° 11",,,,,,,,,44,40,51,26,1
+1020,"P5BrFA","P5Br",73,,"Foot Art -6- N° 10",,,1,,,,,,44,38,51,26,1
+1021,"P6BRFA","P6Br",74,,"Foot Art -6- N° 5",,,1,,,,,,44,38,51,26,1
+1022,"P7BrFA","P7Br",75,,"Foot Art -6- N° 34",,,1,,,,,,44,38,51,26,1
+1023,"P8BrFA","P8Br",76,,"Foot Art -6- N° 34",,,1,,,,,,44,38,51,26,1
+1027,"P2AR5HA","P2AR",211,,"Horse Art N°5",,,1,,,,,,44,38,51,26,1
+1028,"P2AR14HA","P2AR",211,,"Horse Art N°14",,,1,,,,,,44,38,51,26,1
+1029,"P2AR4PC","P2AR",211,,"Park column n° 4",,,,,,,,,44,40,51,26,1
+1030,"P2AR6PC","P2AR",211,,"Park column n° 6",,,,,,,,,44,40,51,26,1
+1031,"P2AR14PC","P2AR",211,,"Park column n° 14",,,,,,,,,44,40,51,26,1
+1032,"P2ARPio","P2AR",211,,"7th Cie of pionneers",,,,,,,,,44,36,51,26,1
+1033,"P9BrFA","P9Br",77,,"Foot Art -6- N° 18",,,1,,,,,,44,38,51,26,1
+1034,"P10BrFA","P10Br",78,,"Foot Art -6- N° 35",,,1,,,,,,44,38,51,26,1
+1035,"P11BrFA","P11Br",79,,"Foot Art -6- N° 36 §",,,1,,,,,,44,38,51,26,1
+1036,"P12BrFA","P12Br",80,,"Foot Art -6- N° 24 §",,,1,,,,,,44,38,51,26,1
+1037,"P3CR20HA","P3CR2B",164,,"Horse Art N°20",,,1,,,,,,44,38,51,26,1
+1038,"P3AR7FA","P3AR",212,,"Foot Art -12- N° 7",,,1,,,,,,44,38,51,26,1
+1039,"P3AR18HA","P3AR",212,,"Horse Art N°18",,,1,,,,,,44,38,51,26,1
+1040,"P3AR19HA","P3AR",212,,"Horse Art N°19",,,1,,,,,,44,38,51,26,1
+1041,"P3AR10PC","P3AR",212,,"Park column n° 1",,,,,,,,,44,40,51,26,1
+1042,"P3AR5PC","P3AR",212,,"Park column n° 5",,,,,,,,,44,40,51,26,1
+1043,"P3AR19PC","P3AR",212,,"Park column n° 19",,,,,,,,,44,40,51,26,1
+1044,"P13BrFA","P13Br",81,,"Foot Art -6- N° 21",,,1,,,,,,44,38,51,26,1
+1045,"P14BRFA","P14Br",82,,"Foot Art -6- N° 13",,,1,,,,,,44,38,51,26,1
+1046,"P15BRFA","P15Br",83,,"Foot Art -6- N° 14",,,1,,,,,,44,38,51,26,1
+1047,"P16BrFA","P16Br",84,,"Foot Art -6- N° 2",,,1,,,,,,44,38,51,26,1
+1048,"P4CR1HA","P4CR1B",165,,"Horse Art N°1",,,1,,,,,,44,38,51,26,1
+1049,"P4CR12HA","P4CR2B",166,,"Horse Art N°12",,,1,,,,,,44,38,51,26,1
+1050,"P4AR3FA","P4AR",213,,"Foot Art -12- N° 3",,,1,,,,,,44,38,51,26,1
+1051,"P4AR5FA","P4AR",213,,"Foot Art -12- N° 5",,,1,,,,,,44,38,51,26,1
+1052,"P4AR13FA","P4AR",213,,"Foot Art -12- N° 13",,,1,,,,,,44,38,51,26,1
+1053,"P4AR11FA","P4AR",213,,"Foot Art -6- N° 11",,,1,,,,,,44,38,51,26,1
+1054,"P4AR11HA","P4AR",213,,"Horse Art N°11",,,1,,,,,,44,38,51,26,1
+1055,"P4AR3PC","P4AR",213,,"Park column n° 3",,,,,,,,,44,40,51,26,1
+1056,"P4AR2PC","P4AR",213,,"Park column n° 2",,,,,,,,,44,40,51,26,1
+1057,"P4AR7PC","P4AR",213,,"Park column n° 7",,,,,,,,,44,40,51,26,1
+1058,"NHQGenie","NHQArt",222,,"Troupes de génie",,,,1,,3,65,68,45,36,52,8,1
+1059,"NHQguide","NHQArt",222,,"Cie des guides néerlandais",,,,1,,1,65,66,45,36,52,8,1
+1060,"NHQmar","NHQArt",222,,"Cie de maréchaussée belge",,,,1,,1,59,60,45,36,52,8,1
+1061,"HHQEng","HHQKGL",1092,,"Royal Engineers & Sappers-Miners",,,,9,,22,983,1005,45,36,49,23,1
+1062,"GcieMiBa","GIGen",215,,"Cie de musique militaire",,,,,,,,,45,36,48,18,1
+1063,"GcieSaMi","GIGen",215,,"Cie de Sapeurs-mineurs",,,,1,,3,109,112,45,36,48,18,1
+1064,"GcieMarin","GIGen",215,,"Cie de marins",,,,1,,3,104,107,45,36,48,18,1
+1065,"F1DIGE","F1DI",101,,"1er Rgt GEN 2e Bn 1eCie",,,,1,,4,66,70,45,36,48,13,1
+1066,"F2DIGE","F2DI",102,,"1er Rgt GEN 2e Bn 2eCie",,,,1,,4,66,70,45,36,48,13,1
+1067,"F3DIGE","F3DI",103,,"1er Rgt GEN 2e Bn 3eCie",,,,1,,4,66,70,45,36,48,13,1
+1068,"F4DIGE","F4DI",104,,"1er Rgt GEN 2e Bn 4eCie",,,,1,,5,66,71,45,36,48,13,1
+1069,"F1AGE","F1AGen",216,,"1er Rgt GEN 2e Bn 5eCie",,,,1,,4,66,70,45,36,48,13,1
+1070,"F5DIGE","F5DI",105,,"1er Rgt GEN 1e Bn 1eCie",,,,1,,5,82,87,45,36,48,13,1
+1071,"F6DIGE","F6DI",106,,"1er Rgt GEN 1e Bn 2eCie",,,,1,,5,81,86,45,36,48,13,1
+1072,"F7DIGE","F7DI",107,,"1er Rgt GEN 1e Bn 3eCie",,,,1,,4,82,86,45,36,48,13,1
+1073,"F9DIGE","F9DI",108,,"1er Rgt GEN 1e Bn 4eCie",,,,1,,4,82,86,45,37,48,13,1
+1074,"F2AGE","F2AGen",217,,"1er Rgt GEN 1e Bn 5eCie",,,,1,,4,82,86,45,36,48,13,1
+1075,"F8DIGE","F8DI",109,,"2e Rgt GEN 2e Bn 2eCie",,,,1,,1,15,16,45,36,48,13,1
+1076,"F10DGE","F10DI",110,,"2e Rgt GEN 2e Bn 2eCie",,,,1,,4,81,85,45,36,48,13,1
+1077,"F11DIGE","F11DI",111,,"2e Rgt GEN 2e Bn 2eCie",,,,1,,2,48,50,45,36,48,13,1
+1078,"F13DIGE","F13DI",113,,"2e Rgt GEN 2e Bn 5eCie",,,,1,,1,58,59,45,36,48,13,1
+1079,"F14DIGE","F14DI",114,,"2e Rgt GEN 2e Bn 3eCie",,,,1,,4,74,78,45,36,48,13,1
+1080,"F4APT","F4AGen",219,,"1er Bn Pontonniers 4eCie",,,,1,,4,63,67,45,36,48,13,1
+1081,"F4AGE","F4AGen",219,,"2e Rgt GEN 2e Bn 4eCie",,,,1,,2,69,71,45,36,48,13,1
+1082,"F19DIGE","F19DI",115,,"3e Rgt GEN 1e Bn 1eCie",,,,1,,4,91,95,45,36,48,13,1
+1083,"F20DIGE","F20DI",116,91,"3e Rgt GEN 1e Bn 2eCie",,,,,,,,,45,36,48,13,1
+1084,"F21DIGE","F21DI",117,,"3e Rgt GEN 1e Bn 3eCie",,,,1,,3,98,101,45,36,48,13,1
+1085,"F6AGen","F6ARes",208,,"Génie du 6eme Corps d'Armée",0,0,0,0,,0,0,0,45,36,48,13,1
+1086,"P1ARPio","P1AR",210,,"1st Cie of pionneers",,,,,,,,,45,36,51,28,1
+1087,"P3AR5CPio","P3AR",212,,"5th Cie of pionneers",,,,,,,,,45,36,51,28,1
+1088,"P3AR4CPio","P3AR",212,91,"4th Cie of pionneers",,,,,,,,,45,36,51,28,1
+1089,"P4ARPio","P4AR",213,,"4th Cie of pionneers Mansfeld Landwehr",,,,,,,,,45,36,51,28,1
+1090,"BLCHQ","BLC",220,,"EM des troupes britaniques",,,,,184,0,0,0,41,,47,3,1
+1091,"NLCHQ","BLC",220,,"Etat Major des troupes néerlandaises et du 1er Corps",,,,,136,0,0,0,41,,52,8,1
+1092,"HHQKGL","BHQ",221,,"EM des troupes Hannovriennes et KGL",0,0,0,13,,0,0,0,41,,49,23,1
+1093,"FANCMC","FAN",230,,"Maison civile & militaire",,,,,40,0,0,0,41,,48,13,1
+1094,"FANEMG","FAN",230,,"Etat major Géneral",,,,,83,0,0,0,41,,48,13,1
+1095,"FANEMA","FAN",230,,"Etat major Aile Gauche",,,,,,0,0,0,41,,48,13,1
+1096,"PLREM","PLR",244,,"Etat-Major",,,,,56,0,0,0,41,,51,28,1
+1097,"F10DIAM","F10DI",110,,"Ambulances",,,,,,0,0,0,46,36,48,11,1
+1098,"F11DIAM","F11DI",111,,"Ambulances",,,,,,0,0,0,46,36,48,11,1
